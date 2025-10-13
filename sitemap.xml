@@ -11,12 +11,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/scales</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/fretboard-demo</loc>
+    <loc>https://sixstringsapp.com/#/fretboard-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -41,12 +36,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/scales</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/ru/fretboard-demo</loc>
+    <loc>https://sixstringsapp.com/#/ru/fretboard-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -71,12 +61,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/en/scales</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/fretboard-demo</loc>
+    <loc>https://sixstringsapp.com/#/en/fretboard-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
