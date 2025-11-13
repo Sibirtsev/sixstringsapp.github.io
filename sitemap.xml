@@ -41,6 +41,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/#/rhythm-trainer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/#/ear/microtone</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -86,6 +91,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/#/ru/rhythm-trainer</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/#/ru/ear/microtone</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -127,6 +137,11 @@
   </url>
   <url>
     <loc>https://sixstringsapp.com/#/en/rhythm-generator</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/#/en/rhythm-trainer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
