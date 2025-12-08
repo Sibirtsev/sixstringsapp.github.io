@@ -1,7 +1,0 @@
-import{r as g,j as s}from"./index-CJiBw75D.js";const y=({label:l,playFn:a,icon:i,disabled:t,className:r,title:n})=>{const[e,o]=g.useState(!1),c=async()=>{if(!(t||e)){o(!0);try{await a()}finally{setTimeout(()=>o(!1),1200)}}};return s.jsxs("button",{type:"button",className:`relative flex items-center justify-center px-4 py-2 rounded-md font-medium transition-colors duration-150
-        ${e?"bg-green-500 text-white animate-pulse":"bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white"}
-        ${t||e?"opacity-60 cursor-not-allowed":"hover:bg-green-100 dark:hover:bg-green-600"}
-        ${r||""}`,onClick:c,disabled:t||e,title:n||"","aria-label":n||l,children:[i&&s.jsx("span",{className:"mr-2",children:i}),e?"▶️":""," ",l]})},x=({playFn:l,disabled:a,className:i,title:t})=>{const[r,n]=g.useState(!1),e=async()=>{if(!(a||r)){n(!0);try{await l()}finally{setTimeout(()=>n(!1),1200)}}};return s.jsx("button",{type:"button",className:`inline-flex items-center justify-center w-8 h-8 rounded-full transition-all duration-150
-        ${r?"bg-green-500 text-white animate-pulse":"bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300"}
-        ${a||r?"opacity-50 cursor-not-allowed":"hover:bg-green-100 dark:hover:bg-green-600 hover:text-green-600 dark:hover:text-white"}
-        ${i||""}`,onClick:e,disabled:a||r,title:t||"Play","aria-label":t||"Play",children:s.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"currentColor",className:"w-4 h-4",children:s.jsx("path",{d:"M8 5.14v14l11-7-11-7z"})})})};export{x as M,y as P};
