@@ -21,6 +21,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/#/song</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/#/circle-of-fifths</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -71,6 +76,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/#/ru/song</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/#/ru/circle-of-fifths</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -117,6 +127,11 @@
   </url>
   <url>
     <loc>https://sixstringsapp.com/#/en/harmony</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/#/en/song</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
