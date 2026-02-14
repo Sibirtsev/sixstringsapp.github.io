@@ -1,0 +1,7 @@
+import{r as u,j as n}from"./index-t3o3U-_-.js";const x=({label:s,playFn:o,icon:r,disabled:a,className:l,title:t})=>{const[e,i]=u.useState(!1),c=async()=>{if(!(a||e)){i(!0);try{await o()}finally{setTimeout(()=>i(!1),1200)}}};return n.jsxs("button",{type:"button",className:`relative flex items-center justify-center px-4 py-2 rounded-md font-medium transition-colors duration-150
+        ${e?"bg-green-500 text-white animate-pulse":"bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-white"}
+        ${a||e?"opacity-60 cursor-not-allowed":"hover:bg-green-100 dark:hover:bg-green-600"}
+        ${l||""}`,onClick:c,disabled:a||e,title:t||"","aria-label":t||s,children:[r&&n.jsx("span",{className:"mr-2",children:r}),e?"▶️":""," ",s]})},y=({children:s,playFn:o,disabled:r,className:a,title:l})=>{const[t,e]=u.useState(!1),i=async c=>{if(c.preventDefault(),!(r||t)){e(!0);try{await o()}finally{setTimeout(()=>e(!1),1200)}}};return n.jsxs("a",{href:"#",className:`inline-flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:underline transition-colors
+        ${t?"text-green-500 dark:text-green-400":""}
+        ${r||t?"opacity-50 cursor-not-allowed pointer-events-none":"cursor-pointer"}
+        ${a||""}`,onClick:i,title:l||"","aria-label":l,children:[n.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",viewBox:"0 0 24 24",fill:"currentColor",className:`w-4 h-4 ${t?"animate-pulse":""}`,children:n.jsx("path",{d:"M8 5.14v14l11-7-11-7z"})}),s]})};export{y as P,x as a};
