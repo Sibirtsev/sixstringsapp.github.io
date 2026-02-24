@@ -1,212 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sixstringsapp.com/#/</loc>
+    <loc>https://sixstringsapp.com/ru</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/chords</loc>
+    <loc>https://sixstringsapp.com/ru/rhythm-trainer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/scales-fretboard-explorer</loc>
+    <loc>https://sixstringsapp.com/ru/rhythm-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/harmony</loc>
+    <loc>https://sixstringsapp.com/ru/rhythm-metronome</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/song</loc>
+    <loc>https://sixstringsapp.com/ru/chords</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/circle-of-fifths</loc>
+    <loc>https://sixstringsapp.com/ru/scales-fretboard-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/chord-identifier</loc>
+    <loc>https://sixstringsapp.com/ru/caged-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/caged-explorer</loc>
+    <loc>https://sixstringsapp.com/ru/chord-identifier</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/rhythm-generator</loc>
+    <loc>https://sixstringsapp.com/ru/scale-identifier</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/rhythm-trainer</loc>
+    <loc>https://sixstringsapp.com/ru/string-selector</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/rhythm-metronome</loc>
+    <loc>https://sixstringsapp.com/ru/harmony</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ear/microtone</loc>
+    <loc>https://sixstringsapp.com/ru/song</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/string-selector</loc>
+    <loc>https://sixstringsapp.com/ru/circle-of-fifths</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/scale-identifier</loc>
+    <loc>https://sixstringsapp.com/ru/ear/intervals</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru</loc>
+    <loc>https://sixstringsapp.com/ru/ear/microtone</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/ear/functions</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/feedback</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/chords</loc>
+    <loc>https://sixstringsapp.com/en/rhythm-trainer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/scales-fretboard-explorer</loc>
+    <loc>https://sixstringsapp.com/en/rhythm-generator</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/harmony</loc>
+    <loc>https://sixstringsapp.com/en/rhythm-metronome</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/song</loc>
+    <loc>https://sixstringsapp.com/en/chords</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/circle-of-fifths</loc>
+    <loc>https://sixstringsapp.com/en/scales-fretboard-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/chord-identifier</loc>
+    <loc>https://sixstringsapp.com/en/caged-explorer</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/caged-explorer</loc>
+    <loc>https://sixstringsapp.com/en/chord-identifier</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/rhythm-generator</loc>
+    <loc>https://sixstringsapp.com/en/scale-identifier</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/rhythm-trainer</loc>
+    <loc>https://sixstringsapp.com/en/string-selector</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/rhythm-metronome</loc>
+    <loc>https://sixstringsapp.com/en/harmony</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/ear/microtone</loc>
+    <loc>https://sixstringsapp.com/en/song</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/string-selector</loc>
+    <loc>https://sixstringsapp.com/en/circle-of-fifths</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/ru/scale-identifier</loc>
+    <loc>https://sixstringsapp.com/en/ear/intervals</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/en</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/chords</loc>
+    <loc>https://sixstringsapp.com/en/ear/microtone</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/en/scales-fretboard-explorer</loc>
+    <loc>https://sixstringsapp.com/en/ear/functions</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/#/en/harmony</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/song</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/circle-of-fifths</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/chord-identifier</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/caged-explorer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/rhythm-generator</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/rhythm-trainer</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/rhythm-metronome</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/ear/microtone</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/string-selector</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/#/en/scale-identifier</loc>
+    <loc>https://sixstringsapp.com/en/feedback</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
