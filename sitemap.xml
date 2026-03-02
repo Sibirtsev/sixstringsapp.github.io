@@ -66,17 +66,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/ear/intervals</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/ru/ear/microtone</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/ru/ear/functions</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -151,17 +141,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/ear/intervals</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/en/ear/microtone</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/ear/functions</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
