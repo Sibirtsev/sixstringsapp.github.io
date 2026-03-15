@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://sixstringsapp.com/sitemap.xml

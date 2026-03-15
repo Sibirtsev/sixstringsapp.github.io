@@ -51,6 +51,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/random-key-selector</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/harmony</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -122,6 +127,11 @@
   </url>
   <url>
     <loc>https://sixstringsapp.com/en/string-selector</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/random-key-selector</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
