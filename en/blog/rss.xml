@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Six Strings App Blog (EN)</title>
+<link>https://sixstringsapp.com/en/blog</link>
+<description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
+<language>en-US</language>
+<lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+<atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Why I Created Six Strings App: From Personal Practice to an Open Project for Musicians</title>
+<link>https://sixstringsapp.com/en/blog/why-i-created-this-site</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/why-i-created-this-site</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+<description>The story behind Six Strings App: how a personal project for rhythm, fretboard, chords, scales, harmony, and ear training grew into an open platform for musicians.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/why-i-created-this-site/cover.png" type="image/png" />
+</item>
+</channel>
+</rss>
