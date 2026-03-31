@@ -1,1 +1,0 @@
-import{k as l,b as c,j as e,N as s,w as r,D as o,l as n}from"./index--8SAAuf4.js";const i=()=>{const{search:u}=l(),{slug:t}=c();if(!t)return e.jsx(s,{to:r("/blog",o),replace:!0});const a=n(t);return a?e.jsx(s,{to:`${a}${u}`,replace:!0}):e.jsx(s,{to:r("/404",o),replace:!0})};export{i as default};

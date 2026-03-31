@@ -1,0 +1,67 @@
+{
+  "generatedAt": "2026-03-31T13:18:27.542Z",
+  "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait",
+        "en": "/en/blog/why-i-created-this-site"
+      },
+      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-03-31",
+      "title": "Зачем я создал Шесть струн: от личной практики к открытому проекту для музыкантов",
+      "description": "История создания Six Strings App (Шесть струн): как личный проект для изучения ритма, грифа, аккордов и гармонии вырос в открытую платформу для музыкантов.",
+      "date": "2026-03-31",
+      "intro": "Шесть струн появился из личной потребности глубже понять музыку через практику. Сначала я создавал эти инструменты для себя, чтобы лучше разбираться в ритме, грифе, аккордах, гаммах, гармонии и слухе, а потом решил открыть их для всех музыкантов.",
+      "coverImageUrl": "/blog-assets/ru/zachem-ja-sdelal-etot-sait/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/why-i-created-this-site",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait",
+        "en": "/en/blog/why-i-created-this-site"
+      },
+      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-03-31",
+      "title": "Why I Created Six Strings App: From Personal Practice to an Open Project for Musicians",
+      "description": "The story behind Six Strings App: how a personal project for rhythm, fretboard, chords, scales, harmony, and ear training grew into an open platform for musicians.",
+      "date": "2026-03-31",
+      "intro": "Six Strings App started as a personal need to understand music more deeply through practice. I built these tools for myself first, to get better at rhythm, fretboard navigation, chords, scales, harmony, and ear training, and later decided to open them to all musicians.",
+      "coverImageUrl": "/blog-assets/en/why-i-created-this-site/cover.png"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/six-strings-app",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/six-strings-app",
+        "en": "/en/blog/tag/six-strings-app"
+      },
+      "xDefaultPath": "/ru/blog/tag/six-strings-app",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-03-31"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/six-strings-app",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/six-strings-app",
+        "en": "/en/blog/tag/six-strings-app"
+      },
+      "xDefaultPath": "/ru/blog/tag/six-strings-app",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-03-31"
+    }
+  ]
+}
