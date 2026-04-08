@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-04-08T09:54:34.477Z",
+  "generatedAt": "2026-04-08T15:06:47.057Z",
   "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/",
+        "en": "/en/blog/rhythm-trainer-for-guitarists/"
+      },
+      "xDefaultPath": "/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-04-08",
+      "title": "Ритмический тренажёр для гитаристов: как развивать внутренний пульс через ритмический алфавит",
+      "description": "Что такое ритмический тренажёр, как он связан с ритмическим алфавитом Бенни Греба и почему помогает гитаристу развивать внутренний пульс, тайминг и чувство ритма.",
+      "date": "2026-04-08",
+      "intro": "Ритмический тренажёр помогает гитаристу развивать не просто внешний тайминг под клик, а внутреннее ощущение пульса внутри доли. В статье разберём, как это связано с ритмическим алфавитом Бенни Греба, почему тема откликается гитаристам и как начать базовую практику без перегруза.",
+      "coverImageUrl": "/blog-assets/ru/ritmicheskiy-trenazher-dlya-gitaristov/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/rhythm-trainer-for-guitarists/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/",
+        "en": "/en/blog/rhythm-trainer-for-guitarists/"
+      },
+      "xDefaultPath": "/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-04-08",
+      "title": "Rhythm Trainer for Guitarists: How to Develop Inner Pulse Through the Rhythmic Alphabet",
+      "description": "What a rhythm trainer is, how it relates to Benny Greb’s rhythmic alphabet, and why it helps guitarists develop inner pulse, timing, and a stronger sense of rhythm.",
+      "date": "2026-04-08",
+      "intro": "A rhythm trainer helps guitarists develop more than just external timing against a click. It builds an inner sense of pulse within the beat. In this article, we’ll look at how this connects to Benny Greb’s rhythmic alphabet, why the idea resonates so strongly with guitarists, and how to start practicing it in a simple, practical way.",
+      "coverImageUrl": "/blog-assets/en/rhythm-trainer-for-guitarists/cover.png"
+    },
     {
       "entryType": "post",
       "path": "/ru/blog/akkordy-arpedzhio-gammy/",
@@ -75,6 +111,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/blog/tag/guitar/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -114,19 +163,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-        "en": "/en/blog/tag/guitar/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-06"
-    },
-    {
-      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -137,6 +173,58 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/blog/tag/rhythm/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82/",
+        "en": "/en/blog/tag/rhythmic-alphabet/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80/",
+        "en": "/en/blog/tag/rhythm-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/",
+        "en": "/en/blog/tag/timing/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
     },
     {
       "entryType": "tag",
@@ -153,6 +241,45 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%80%D0%B8%D1%82%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/blog/tag/rhythm-exercises/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
+        "en": "/en/blog/tag/sense-of-rhythm/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/benny-greb/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/benny-greb/",
+        "en": "/en/blog/tag/benny-greb/"
+      },
+      "xDefaultPath": "/ru/blog/tag/benny-greb/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/six-strings-app/",
       "language": "ru",
       "alternates": {
@@ -163,6 +290,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-03-31"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/guitar/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/blog/tag/guitar/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
     },
     {
       "entryType": "tag",
@@ -179,6 +319,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/benny-greb/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/benny-greb/",
+        "en": "/en/blog/tag/benny-greb/"
+      },
+      "xDefaultPath": "/ru/blog/tag/benny-greb/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/chords/",
       "language": "en",
       "alternates": {
@@ -186,19 +339,6 @@
         "en": "/en/blog/tag/chords/"
       },
       "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-06"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/guitar/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-        "en": "/en/blog/tag/guitar/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
@@ -231,6 +371,58 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/rhythm/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/blog/tag/rhythm/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/rhythm-exercises/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/blog/tag/rhythm-exercises/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/rhythm-trainer/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80/",
+        "en": "/en/blog/tag/rhythm-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/rhythmic-alphabet/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82/",
+        "en": "/en/blog/tag/rhythmic-alphabet/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/scales/",
       "language": "en",
       "alternates": {
@@ -244,6 +436,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/sense-of-rhythm/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
+        "en": "/en/blog/tag/sense-of-rhythm/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/six-strings-app/",
       "language": "en",
       "alternates": {
@@ -254,6 +459,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-03-31"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/timing/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/",
+        "en": "/en/blog/tag/timing/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
     }
   ]
 }
