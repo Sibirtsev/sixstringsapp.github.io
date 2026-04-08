@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-04-06T16:40:41.615Z",
+  "generatedAt": "2026-04-08T09:54:34.477Z",
   "entries": [
     {
       "entryType": "post",
-      "path": "/ru/blog/akkordy-arpedzhio-gammy",
+      "path": "/ru/blog/akkordy-arpedzhio-gammy/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/akkordy-arpedzhio-gammy",
-        "en": "/en/blog/chords-arpeggios-scales"
+        "ru": "/ru/blog/akkordy-arpedzhio-gammy/",
+        "en": "/en/blog/chords-arpeggios-scales/"
       },
-      "xDefaultPath": "/ru/blog/akkordy-arpedzhio-gammy",
+      "xDefaultPath": "/ru/blog/akkordy-arpedzhio-gammy/",
       "changefreq": "weekly",
       "priority": "0.75",
       "lastmod": "2026-04-06",
@@ -21,13 +21,13 @@
     },
     {
       "entryType": "post",
-      "path": "/en/blog/chords-arpeggios-scales",
+      "path": "/en/blog/chords-arpeggios-scales/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/akkordy-arpedzhio-gammy",
-        "en": "/en/blog/chords-arpeggios-scales"
+        "ru": "/ru/blog/akkordy-arpedzhio-gammy/",
+        "en": "/en/blog/chords-arpeggios-scales/"
       },
-      "xDefaultPath": "/ru/blog/akkordy-arpedzhio-gammy",
+      "xDefaultPath": "/ru/blog/akkordy-arpedzhio-gammy/",
       "changefreq": "weekly",
       "priority": "0.75",
       "lastmod": "2026-04-06",
@@ -39,13 +39,13 @@
     },
     {
       "entryType": "post",
-      "path": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "path": "/ru/blog/zachem-ja-sdelal-etot-sait/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait",
-        "en": "/en/blog/why-i-created-this-site"
+        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait/",
+        "en": "/en/blog/why-i-created-this-site/"
       },
-      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait/",
       "changefreq": "weekly",
       "priority": "0.75",
       "lastmod": "2026-03-31",
@@ -57,13 +57,13 @@
     },
     {
       "entryType": "post",
-      "path": "/en/blog/why-i-created-this-site",
+      "path": "/en/blog/why-i-created-this-site/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait",
-        "en": "/en/blog/why-i-created-this-site"
+        "ru": "/ru/blog/zachem-ja-sdelal-etot-sait/",
+        "en": "/en/blog/why-i-created-this-site/"
       },
-      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait",
+      "xDefaultPath": "/ru/blog/zachem-ja-sdelal-etot-sait/",
       "changefreq": "weekly",
       "priority": "0.75",
       "lastmod": "2026-03-31",
@@ -75,182 +75,182 @@
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B",
+      "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B",
-        "en": "/en/blog/tag/chords"
+        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/blog/tag/chords/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B",
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE",
+      "path": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE",
-        "en": "/en/blog/tag/arpeggios"
+        "ru": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
+        "en": "/en/blog/tag/arpeggios/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE",
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B",
+      "path": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B",
-        "en": "/en/blog/tag/scales"
+        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+        "en": "/en/blog/tag/scales/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B",
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0",
+      "path": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0",
-        "en": "/en/blog/tag/guitar"
+        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/blog/tag/guitar/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0",
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+      "path": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
-        "en": "/en/blog/tag/improvisation"
+        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
+        "en": "/en/blog/tag/improvisation/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8",
+      "path": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8",
-        "en": "/en/blog/tag/music-theory"
+        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/blog/tag/music-theory/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8",
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/six-strings-app",
+      "path": "/ru/blog/tag/six-strings-app/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/blog/tag/six-strings-app",
-        "en": "/en/blog/tag/six-strings-app"
+        "ru": "/ru/blog/tag/six-strings-app/",
+        "en": "/en/blog/tag/six-strings-app/"
       },
-      "xDefaultPath": "/ru/blog/tag/six-strings-app",
+      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-03-31"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/arpeggios",
+      "path": "/en/blog/tag/arpeggios/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE",
-        "en": "/en/blog/tag/arpeggios"
+        "ru": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
+        "en": "/en/blog/tag/arpeggios/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE",
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/chords",
+      "path": "/en/blog/tag/chords/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B",
-        "en": "/en/blog/tag/chords"
+        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/blog/tag/chords/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B",
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/guitar",
+      "path": "/en/blog/tag/guitar/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0",
-        "en": "/en/blog/tag/guitar"
+        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/blog/tag/guitar/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0",
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/improvisation",
+      "path": "/en/blog/tag/improvisation/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
-        "en": "/en/blog/tag/improvisation"
+        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
+        "en": "/en/blog/tag/improvisation/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F",
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/music-theory",
+      "path": "/en/blog/tag/music-theory/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8",
-        "en": "/en/blog/tag/music-theory"
+        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/blog/tag/music-theory/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8",
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/scales",
+      "path": "/en/blog/tag/scales/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B",
-        "en": "/en/blog/tag/scales"
+        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+        "en": "/en/blog/tag/scales/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B",
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/six-strings-app",
+      "path": "/en/blog/tag/six-strings-app/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/six-strings-app",
-        "en": "/en/blog/tag/six-strings-app"
+        "ru": "/ru/blog/tag/six-strings-app/",
+        "en": "/en/blog/tag/six-strings-app/"
       },
-      "xDefaultPath": "/ru/blog/tag/six-strings-app",
+      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-03-31"
