@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/blog</link>
 <description>Статьи Six Strings App: ритм, аккорды, гриф, гаммы, гармония и слух.</description>
 <language>ru-RU</language>
-<lastBuildDate>Wed, 08 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Гармония: как видеть аккорды тональности, слышать каденции и понимать модуляции</title>
+<link>https://sixstringsapp.com/ru/blog/garmoniya-akordy-tonalnosti-kadentsii-modulyatsii/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/garmoniya-akordy-tonalnosti-kadentsii-modulyatsii/</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<description>Онлайн-инструмент для работы с гармонией: аккорды тональности, функции, каденции и модуляции с прослушиванием прямо в браузере. Полезно для практики, аранжировки и написания музыки.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/garmoniya-akordy-tonalnosti-kadentsii-modulyatsii/cover.png" type="image/png" />
+</item>
 <item>
 <title>Ритмический тренажёр для гитаристов: как развивать внутренний пульс через ритмический алфавит</title>
 <link>https://sixstringsapp.com/ru/blog/ritmicheskiy-trenazher-dlya-gitaristov/</link>

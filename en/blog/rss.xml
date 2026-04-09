@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 08 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Apr 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Harmony: how to see key chords, hear cadences, and understand modulations</title>
+<link>https://sixstringsapp.com/en/blog/harmony-key-chords-cadences-modulations/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/harmony-key-chords-cadences-modulations/</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
+<description>An online tool for working with harmony: key chords, chord functions, cadences, and modulations with audio playback right in the browser. Useful for practice, arranging, and songwriting.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/harmony-key-chords-cadences-modulations/cover.png" type="image/png" />
+</item>
 <item>
 <title>Rhythm Trainer for Guitarists: How to Develop Inner Pulse Through the Rhythmic Alphabet</title>
 <link>https://sixstringsapp.com/en/blog/rhythm-trainer-for-guitarists/</link>
