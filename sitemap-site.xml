@@ -50,6 +50,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/strumming-patterns-library/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/strumming-patterns-library/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/strumming-patterns-library/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/strumming-patterns-library/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/chords/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/chords/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/chords/" />
@@ -206,6 +214,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/rhythm-metronome/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/rhythm-metronome/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/rhythm-metronome/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/strumming-patterns-library/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/strumming-patterns-library/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/strumming-patterns-library/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/strumming-patterns-library/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

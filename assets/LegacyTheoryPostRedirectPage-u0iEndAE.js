@@ -1,0 +1,1 @@
+import{k as c,b as n,j as e,N as r,w as a,D as o,A as i}from"./index-Cnw12Z3m.js";const g=()=>{const{search:u}=c(),{slug:t}=n();if(!t)return e.jsx(r,{to:a("/theory",o),replace:!0});const s=i(t);return s?e.jsx(r,{to:`${s}${u}`,replace:!0}):e.jsx(r,{to:a("/404",o),replace:!0})};export{g as default};
