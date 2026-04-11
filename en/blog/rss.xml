@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 09 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 11 Apr 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Circle of Fifths: how to quickly understand relationships between keys</title>
+<link>https://sixstringsapp.com/en/blog/circle-of-fifths-keys-major-minor/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/circle-of-fifths-keys-major-minor/</guid>
+<pubDate>Sat, 11 Apr 2026 00:00:00 GMT</pubDate>
+<description>How to use the circle of fifths in practice: see relationships between keys, understand major and minor, choose chords, and make sense of harmony faster.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/circle-of-fifths-keys-major-minor/cover.png" type="image/png" />
+</item>
 <item>
 <title>Harmony: how to see key chords, hear cadences, and understand modulations</title>
 <link>https://sixstringsapp.com/en/blog/harmony-key-chords-cadences-modulations/</link>
