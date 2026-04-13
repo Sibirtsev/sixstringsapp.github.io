@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-04-12T12:37:12.852Z",
+  "generatedAt": "2026-04-13T09:58:24.832Z",
   "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/metronom-dlya-gitaristy-onlajn/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/metronom-dlya-gitaristy-onlajn/",
+        "en": "/en/blog/online-metronome-for-guitar-practice/"
+      },
+      "xDefaultPath": "/ru/blog/metronom-dlya-gitaristy-onlajn/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-04-13",
+      "title": "Онлайн-метроном для гитариста: мини драм-машина для занятий и практики",
+      "description": "Онлайн-метроном Шесть струн (Six Strings App) помогает заниматься ровно и музыкально: настраиваемый звук, прогрессирующий темп, таймер, паттерны в разных жанрах и размерах, гибкие субдоли и сохранение собственных ритмов.",
+      "date": "2026-04-13",
+      "intro": "Обычный метроном даёт пульс, но не всегда помогает заниматься удобно и музыкально. Иногда нужен мягкий звук, иногда — акцент на субдолях, иногда — постепенное ускорение темпа или готовый ритмический рисунок в нужном размере. Этот метроном я делал прежде всего для себя: как рабочий инструмент для реальной практики, а не как страницу с одной кнопкой Start.",
+      "coverImageUrl": "/blog-assets/ru/metronom-dlya-gitaristy-onlajn/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/online-metronome-for-guitar-practice/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/metronom-dlya-gitaristy-onlajn/",
+        "en": "/en/blog/online-metronome-for-guitar-practice/"
+      },
+      "xDefaultPath": "/ru/blog/metronom-dlya-gitaristy-onlajn/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-04-13",
+      "title": "Online metronome for guitar practice: a mini drum machine for daily training",
+      "description": "The Six Strings App online metronome helps you practice with more control and musical feel: customizable sound, progressive tempo mode, practice timer, genre-based patterns, flexible subdivisions, and saved custom rhythms.",
+      "date": "2026-04-13",
+      "intro": "A basic metronome gives you pulse, but that does not always mean better practice. Sometimes you need a softer sound, sometimes clear subdivisions, sometimes gradual tempo increases, and sometimes a ready-made groove in the right meter. I built this metronome for myself first: not as a page with a start button, but as a practical tool for real daily practice.",
+      "coverImageUrl": null
+    },
     {
       "entryType": "post",
       "path": "/ru/blog/sistema-caged-na-gitare/",
@@ -349,6 +385,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/",
+        "en": "/en/blog/tag/drum-machine/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -401,6 +450,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
       "language": "ru",
       "alternates": {
@@ -427,6 +489,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/musical-metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B5/",
       "language": "ru",
       "alternates": {
@@ -437,6 +512,58 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-12"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/online-metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D1%8B/",
+        "en": "/en/blog/tag/guitar-patterns/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/blog/tag/practice/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%82%D0%B5%D0%BC%D0%BF/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/blog/tag/progressive-tempo/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
     },
     {
       "entryType": "tag",
@@ -476,6 +603,45 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
+        "en": "/en/blog/tag/saved-rhythms/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%81%D1%83%D0%B1%D0%B4%D0%BE%D0%BB%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D1%83%D0%B1%D0%B4%D0%BE%D0%BB%D0%B8/",
+        "en": "/en/blog/tag/subdivisions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D1%83%D0%B1%D0%B4%D0%BE%D0%BB%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/",
+        "en": "/en/blog/tag/practice-timer/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
     },
     {
       "entryType": "tag",
@@ -713,6 +879,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/drum-machine/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/",
+        "en": "/en/blog/tag/drum-machine/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/fretboard/",
       "language": "en",
       "alternates": {
@@ -736,6 +915,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-12"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/guitar-patterns/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D1%8B/",
+        "en": "/en/blog/tag/guitar-patterns/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
     },
     {
       "entryType": "tag",
@@ -765,6 +957,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/metronome/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/minor/",
       "language": "en",
       "alternates": {
@@ -788,6 +993,71 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/musical-metronome/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/musical-metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/online-metronome/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/blog/tag/online-metronome/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/practice/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/blog/tag/practice/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/practice-timer/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/",
+        "en": "/en/blog/tag/practice-timer/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/progressive-tempo/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/blog/tag/progressive-tempo/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
     },
     {
       "entryType": "tag",
@@ -843,6 +1113,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/saved-rhythms/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
+        "en": "/en/blog/tag/saved-rhythms/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/scales/",
       "language": "en",
       "alternates": {
@@ -879,6 +1162,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-03-31"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/subdivisions/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D1%83%D0%B1%D0%B4%D0%BE%D0%BB%D0%B8/",
+        "en": "/en/blog/tag/subdivisions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D1%83%D0%B1%D0%B4%D0%BE%D0%BB%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-13"
     },
     {
       "entryType": "tag",

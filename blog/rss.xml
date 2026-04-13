@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/blog</link>
 <description>Статьи Six Strings App: ритм, аккорды, гриф, гаммы, гармония и слух.</description>
 <language>ru-RU</language>
-<lastBuildDate>Sun, 12 Apr 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 13 Apr 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Онлайн-метроном для гитариста: мини драм-машина для занятий и практики</title>
+<link>https://sixstringsapp.com/ru/blog/metronom-dlya-gitaristy-onlajn/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/metronom-dlya-gitaristy-onlajn/</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+<description>Онлайн-метроном Шесть струн (Six Strings App) помогает заниматься ровно и музыкально: настраиваемый звук, прогрессирующий темп, таймер, паттерны в разных жанрах и размерах, гибкие субдоли и сохранение собственных ритмов.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/metronom-dlya-gitaristy-onlajn/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое CAGED и как эта система помогает видеть аккорды по всему грифу</title>
 <link>https://sixstringsapp.com/ru/blog/sistema-caged-na-gitare/</link>
