@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Six Strings App Theory (EN)</title>
+<link>https://sixstringsapp.com/en/theory</link>
+<description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
+<language>en-US</language>
+<lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+<atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is Tempo in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-tempo-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-tempo-in-music/</guid>
+<pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of tempo: what BPM means, how tempo relates to pulse and rhythm, and how to train steady speed in practice.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-tempo-in-music/cover.png" type="image/png" />
+</item>
+<item>
+<title>What Is Pulse in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-pulse-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-pulse-in-music/</guid>
+<pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of musical pulse: how to feel a steady time support, and how pulse differs from rhythm and tempo.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-pulse-in-music/cover.png" type="image/png" />
+</item>
+<item>
+<title>What Is Rhythm in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-rhythm-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-rhythm-in-music/</guid>
+<pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of rhythm: how sounds and rests are placed in time, how rhythm differs from tempo, and how to practice it.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-rhythm-in-music/cover.png" type="image/png" />
+</item>
+<item>
+<title>Tone and Semitone</title>
+<link>https://sixstringsapp.com/en/theory/tone-and-semitone/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/tone-and-semitone/</guid>
+<pubDate>Sat, 02 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of tones and semitones: how distances between notes work on guitar and why one fret equals one semitone.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/tone-and-semitone/cover.png" type="image/png" />
+</item>
+<item>
+<title>What Is Pitch</title>
+<link>https://sixstringsapp.com/en/theory/what-is-pitch/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-pitch/</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of pitch: why some sounds feel higher or lower, and how to see that movement on the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-pitch/cover.png" type="image/png" />
+</item>
+<item>
+<title>Note Names: Do, Re, Mi and C, D, E</title>
+<link>https://sixstringsapp.com/en/theory/note-names-do-re-mi-and-c-d-e/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/note-names-do-re-mi-and-c-d-e/</guid>
+<pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
+<description>How solfege note names connect to the letter system C, D, E, why guitarists use letters, and what to learn first.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/note-names-do-re-mi-and-c-d-e/cover.png" type="image/png" />
+</item>
+<item>
+<title>What Is a Note in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-note/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-note/</guid>
+<pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of a note: how a note differs from sound, why note names matter, and how to see notes on the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-note/cover.png" type="image/png" />
+</item>
+<item>
+<title>What Is Sound in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-sound-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-sound-in-music/</guid>
+<pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of sound in music: how music starts with sound, silence, and time before notes, rhythm, melody, and harmony appear.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-sound-in-music/cover.png" type="image/png" />
+</item>
+</channel>
+</rss>
