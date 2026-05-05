@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-05-04T13:29:34.383Z",
+  "generatedAt": "2026-05-05T08:01:55.378Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-temp-v-muzyke/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-temp-v-muzyke/",
+        "en": "/en/theory/what-is-tempo-in-music/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-temp-v-muzyke/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-05"
+    },
+    {
+      "path": "/en/theory/what-is-tempo-in-music/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-temp-v-muzyke/",
+        "en": "/en/theory/what-is-tempo-in-music/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-temp-v-muzyke/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-05"
+    },
     {
       "path": "/ru/theory/chto-takoe-puls-v-muzyke/",
       "language": "ru",
@@ -181,6 +205,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/theory/category/rhythm/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D0%B7%D0%B2%D1%83%D0%BA/",
       "language": "ru",
       "alternates": {
@@ -199,17 +234,6 @@
         "en": "/en/theory/category/notes/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-        "en": "/en/theory/category/rhythm/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -258,17 +282,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
-        "en": "/en/theory/tag/sound/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
       "language": "ru",
       "alternates": {
@@ -276,6 +289,28 @@
         "en": "/en/theory/tag/metronome/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+        "en": "/en/theory/tag/pulse/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
+        "en": "/en/theory/tag/sound/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -302,13 +337,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-        "en": "/en/theory/tag/pulse/"
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -368,17 +403,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD/",
       "language": "ru",
       "alternates": {
@@ -386,6 +410,17 @@
         "en": "/en/theory/tag/tone/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/bpm/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/bpm/",
+        "en": "/en/theory/tag/bpm/"
+      },
+      "xDefaultPath": "/ru/theory/tag/bpm/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -456,17 +491,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/en/theory/category/notes/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-        "en": "/en/theory/category/notes/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/en/theory/category/rhythm/",
       "language": "en",
       "alternates": {
@@ -474,6 +498,17 @@
         "en": "/en/theory/category/rhythm/"
       },
       "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/en/theory/category/notes/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
+        "en": "/en/theory/category/notes/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -544,17 +579,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/note/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D0%B0/",
-        "en": "/en/theory/tag/note/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/pulse/",
       "language": "en",
       "alternates": {
@@ -562,6 +586,17 @@
         "en": "/en/theory/tag/pulse/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/note/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D0%B0/",
+        "en": "/en/theory/tag/note/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -584,6 +619,28 @@
         "en": "/en/theory/tag/sound/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/tempo/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/bpm/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/bpm/",
+        "en": "/en/theory/tag/bpm/"
+      },
+      "xDefaultPath": "/ru/theory/tag/bpm/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -639,17 +696,6 @@
         "en": "/en/theory/tag/semitone/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D0%BE%D0%BB%D1%83%D1%82%D0%BE%D0%BD/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/tempo/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
