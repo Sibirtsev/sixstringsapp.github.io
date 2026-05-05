@@ -66,10 +66,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/scales-fretboard-explorer/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/scales-fretboard-explorer/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/scales-fretboard-explorer/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/scales-fretboard-explorer/" />
+    <loc>https://sixstringsapp.com/ru/fretboard-explorer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-explorer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -234,10 +234,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/scales-fretboard-explorer/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/scales-fretboard-explorer/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/scales-fretboard-explorer/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/scales-fretboard-explorer/" />
+    <loc>https://sixstringsapp.com/en/fretboard-explorer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-explorer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
