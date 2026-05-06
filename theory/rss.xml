@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое длительность ноты</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-dlitelnost-noty/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-dlitelnost-noty/</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение длительности ноты: как нота занимает время, чем длительность связана с пульсом и темпом, и как тренировать это на практике.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-dlitelnost-noty/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое темп в музыке</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-temp-v-muzyke/</link>

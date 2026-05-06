@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/blog</link>
 <description>Статьи Six Strings App: ритм, аккорды, гриф, гаммы, гармония и слух.</description>
 <language>ru-RU</language>
-<lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Определитель аккордов по аппликатуре: как узнать, что вы зажали на грифе</title>
+<link>https://sixstringsapp.com/ru/blog/opredelitel-akkordov-po-applikature/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/opredelitel-akkordov-po-applikature/</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+<description>Личная история создания определителя аккордов в приложении Шесть струн (Six Strings App): как найти название аккорда по аппликатуре, понять его ноты, интервалы, обращения и использовать это в разборе партий.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/opredelitel-akkordov-po-applikature/cover.png" type="image/png" />
+</item>
 <item>
 <title>Исследователь грифа: как я сделал инструмент, чтобы понимать гриф, а не зубрить аппликатуры</title>
 <link>https://sixstringsapp.com/ru/blog/issledovatel-grifa/</link>

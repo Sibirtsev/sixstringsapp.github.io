@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 05 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Chord Identifier by Fingering: how to find out what you are playing on the fretboard</title>
+<link>https://sixstringsapp.com/en/blog/chord-identifier-by-fingering/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/chord-identifier-by-fingering/</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+<description>A personal story behind the Chord Identifier in Six Strings App: how to find a chord name from a fingering, understand its notes, intervals, inversions, and use it when learning guitar parts.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/chord-identifier-by-fingering/cover.png" type="image/png" />
+</item>
 <item>
 <title>Fretboard Explorer: why I built a tool for understanding the fretboard, not memorizing shapes</title>
 <link>https://sixstringsapp.com/en/blog/fretboard-explorer/</link>
