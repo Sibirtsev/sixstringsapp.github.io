@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 07 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Time Signature: 4/4, 3/4, and 6/8 in Simple Terms</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-time-signature/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-time-signature/</guid>
+<pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of time signatures for beginners: what 4/4, 3/4, and 6/8 mean, how to count beats in a bar, and how time signature differs from rhythm and tempo.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-time-signature/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is Note Duration</title>
 <link>https://sixstringsapp.com/en/theory/what-is-note-duration/</link>
