@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 07 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is an Interval in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-an-interval-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-an-interval-in-music/</guid>
+<pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of intervals: what the distance between two notes means, how to hear an interval, how to see it on guitar, and why it matters for chords, scales, and melodies.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-an-interval-in-music/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is a Time Signature: 4/4, 3/4, and 6/8 in Simple Terms</title>
 <link>https://sixstringsapp.com/en/theory/what-is-a-time-signature/</link>

@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 07 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое интервал в музыке</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-interval-v-muzyke/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-interval-v-muzyke/</guid>
+<pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение интервала: что значит расстояние между двумя нотами, как услышать интервал, как увидеть его на гитаре и зачем он нужен для аккордов, гамм и мелодий.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-interval-v-muzyke/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое музыкальный размер: 4/4, 3/4 и 6/8 простыми словами</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-muzykalnyy-razmer/</link>
