@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is an Octave</title>
+<link>https://sixstringsapp.com/en/theory/what-is-an-octave/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-an-octave/</guid>
+<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of the octave: why two notes can have the same name but sound higher or lower, how to hear an octave, and how to find it on the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-an-octave/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is an Interval in Music</title>
 <link>https://sixstringsapp.com/en/theory/what-is-an-interval-in-music/</link>

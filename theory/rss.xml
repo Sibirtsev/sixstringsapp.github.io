@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое октава</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-oktava/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-oktava/</guid>
+<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение октавы: почему две ноты могут иметь одно имя, но звучать выше или ниже, как услышать октаву и как найти её на гитарном грифе.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-oktava/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое интервал в музыке</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-interval-v-muzyke/</link>
