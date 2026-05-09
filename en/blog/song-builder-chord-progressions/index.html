@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  <link rel="icon" type="image/svg+xml" href="/icon.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="alternate" type="application/rss+xml" title="SixStrings App Blog (RU)" href="/ru/blog/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title="SixStrings App Blog (EN)" href="/en/blog/rss.xml" />
+  
+  <script type="module" crossorigin src="/assets/index-QVpvslLI.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-DSvLqpib.css">
+<title data-react-helmet="true">Song Builder: how cadences grew into a tool for progressions, structure, and groove | SixStrings App</title>
+<meta data-react-helmet="true" name="description" content="The Song Builder in Six Strings App grew from a simple idea: to hear cadences at different tempos, build chord progressions, generate song structures, and test harmony with a drum beat." />
+<meta data-react-helmet="true" name="keywords" content="song builder, chord progressions, chord sequences, cadences, harmony, songwriting, song form, song structure, song structure generator, drum patterns, drum grooves, beat for songwriting, guitar songwriting, Six Strings App" />
+<meta data-react-helmet="true" name="robots" content="index,follow" />
+<link data-react-helmet="true" rel="canonical" href="https://sixstringsapp.com/en/blog/song-builder-chord-progressions/" />
+<link data-react-helmet="true" rel="alternate" hrefLang="ru" href="https://sixstringsapp.com/ru/blog/konstruktor-pesen-akkordovye-posledovatelnosti/" />
+<link data-react-helmet="true" rel="alternate" hrefLang="en" href="https://sixstringsapp.com/en/blog/song-builder-chord-progressions/" />
+<link data-react-helmet="true" rel="alternate" hrefLang="x-default" href="https://sixstringsapp.com/ru/blog/konstruktor-pesen-akkordovye-posledovatelnosti/" />
+<meta data-react-helmet="true" property="og:title" content="Song Builder: how cadences grew into a tool for progressions, structure, and groove | SixStrings App" />
+<meta data-react-helmet="true" property="og:description" content="The Song Builder in Six Strings App grew from a simple idea: to hear cadences at different tempos, build chord progressions, generate song structures, and test harmony with a drum beat." />
+<meta data-react-helmet="true" property="og:type" content="article" />
+<meta data-react-helmet="true" property="og:url" content="https://sixstringsapp.com/en/blog/song-builder-chord-progressions/" />
+<meta data-react-helmet="true" property="og:image" content="https://sixstringsapp.com/blog-assets/en/song-builder-chord-progressions/cover.png" />
+<meta data-react-helmet="true" name="twitter:card" content="summary_large_image" />
+<meta data-react-helmet="true" name="twitter:title" content="Song Builder: how cadences grew into a tool for progressions, structure, and groove | SixStrings App" />
+<meta data-react-helmet="true" name="twitter:description" content="The Song Builder in Six Strings App grew from a simple idea: to hear cadences at different tempos, build chord progressions, generate song structures, and test harmony with a drum beat." />
+<meta data-react-helmet="true" name="twitter:image" content="https://sixstringsapp.com/blog-assets/en/song-builder-chord-progressions/cover.png" />
+<script data-react-helmet="true" type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Song Builder: how cadences grew into a tool for progressions, structure, and groove","description":"The Song Builder in Six Strings App grew from a simple idea: to hear cadences at different tempos, build chord progressions, generate song structures, and test harmony with a drum beat.","image":"https://sixstringsapp.com/blog-assets/en/song-builder-chord-progressions/cover.png","datePublished":"2026-05-09","dateModified":"2026-05-09","inLanguage":"en","isAccessibleForFree":true,"url":"https://sixstringsapp.com/en/blog/song-builder-chord-progressions/","publisher":{"@type":"Organization","name":"SixStrings App"}}</script>
+</head>
+
+<body>
+  <div id="root">
+<div class="flex flex-col min-h-screen bg-white dark:bg-gray-900">
+  <header class="bg-white dark:bg-gray-800 shadow-sm border-b border-gray-200 dark:border-gray-700">
+    <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:px-8">
+      <div class="flex justify-between items-center h-16">
+        <div class="flex items-center gap-4 min-w-0">
+          <a href="/en" class="max-md:hidden flex-shrink-0">
+            <h1 class="text-lg font-bold text-gray-900 dark:text-white whitespace-nowrap">SixStrings App</h1>
+          </a>
+          <a href="/en/blog" class="px-2 py-1.5 sm:px-3 sm:py-2 rounded-md border border-blue-200 dark:border-blue-800 bg-blue-50 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300 text-xs sm:text-sm font-medium whitespace-nowrap">
+            Blog
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="max-w-7xl w-full mx-auto py-6 px-4 sm:px-6 lg:px-8">
+    
+<div class="space-y-6">
+  <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-md p-6 space-y-4">
+    <div class="flex items-center justify-between gap-4 flex-wrap text-sm">
+      <a href="/en/blog" class="font-medium text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
+        Blog
+      </a>
+      <a href="/ru/blog/konstruktor-pesen-akkordovye-posledovatelnosti/" class="font-medium text-blue-600 hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300">
+        Русская версия
+      </a>
+    </div>
+    <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">Song Builder: how cadences grew into a tool for progressions, structure, and groove</h1>
+    <p class="text-lg text-gray-600 dark:text-gray-300">The Song Builder did not start as a big idea for a “songwriting service.” At first, I simply wanted to hear cadences better: change the tempo, change chord duration, put several cadences in a row, and check how harmony works in motion. Later, the tool grew into a workspace for chord progressions, song form, and drum patterns — so an idea can be heard not only against a dry click, but with a real beat.</p>
+    <div class="text-sm text-gray-500 dark:text-gray-400">May 9, 2026</div>
+    <a href="/en/song" class="inline-flex rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700">
+      Open Song Builder
+    </a>
+    <p class="inline-flex rounded-lg border border-blue-200 bg-blue-50 px-3 py-2 text-sm font-medium text-blue-900 dark:border-blue-800 dark:bg-blue-900/30 dark:text-blue-200">
+      Works online, free, with no installation.
+    </p>
+    <div class="flex flex-wrap gap-2"><a href="/en/blog/tag/song-builder/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#song builder</a><a href="/en/blog/tag/chords/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#chords</a><a href="/en/blog/tag/harmony/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#harmony</a><a href="/en/blog/tag/cadences/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#cadences</a><a href="/en/blog/tag/songwriting/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#songwriting</a><a href="/en/blog/tag/song-form/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#song form</a><a href="/en/blog/tag/drum-patterns/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#drum patterns</a><a href="/en/blog/tag/rhythm/" class="inline-flex rounded-md border border-gray-200 bg-gray-100 px-2 py-0.5 text-xs font-medium text-gray-700 hover:bg-gray-200 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700">#rhythm</a></div>
+  </div>
+  <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-md p-6">
+    <article class="content-body text-gray-800 dark:text-gray-100"><h2>Why the Harmony page was no longer enough</h2>
+<p>Six Strings App already had a <strong><a href="/en/harmony/">Harmony</a></strong> page. There, you could choose a key, see its chords, listen to cadences, and understand how they work inside a mode.</p>
+<p>For studying harmony, that was enough. But for practice, one limitation appeared quickly: you could listen to a <abbr class="content-term-hint" title="A harmonic movement that creates a sense of resolution" aria-label="cadence: A harmonic movement that creates a sense of resolution" tabindex="0">cadence</abbr> as a finished example, but you could not really work with it.</p>
+<p>I wanted to change the tempo. I wanted to set chord durations. I wanted to play not just one cadence, but several in a row, and hear how they connect. Not in theory. Not as a diagram. In real time.</p>
+<p>That was the first reason to build a separate tool.</p>
+<h2>I wanted to experiment with cadences, not just listen to them</h2>
+<p>A cadence in a reference page is useful, but static. It shows a ready-made movement: here is the motion, here is the resolution, here is the tension.</p>
+<p>But when you write a song, things work differently. The same harmonic turn can feel different if you:</p>
+<ul><li>change the tempo;</li><li>stretch one chord over two bars;</li><li>shorten a passing chord;</li><li>place another cadence next to it;</li><li>repeat the same movement several times;</li><li>change the last chord before moving into a new section.</li></ul>
+<p>You cannot really hear that in a static reference page. You either move the chords into a <abbr class="content-term-hint" title="Digital Audio Workstation" aria-label="DAW: Digital Audio Workstation" tabindex="0">DAW</abbr>, play everything by hand, or keep the whole thing in your head. I wanted something simpler: choose the chords, set the durations, and hear the result right away.</p>
+<h2>The first version: a chord grid for experiments</h2>
+<p>The first version of the Song Builder was simple. Essentially, it was a chord grid where you could build a progression, set chord durations, and start playback.</p>
+<p>The main idea was not to replace a <abbr class="content-term-hint" title="Digital Audio Workstation" aria-label="DAW: Digital Audio Workstation" tabindex="0">DAW</abbr> or write a song for the user. I needed a quick sketchpad: a place to test harmony before recording parts, choosing a strumming pattern, or thinking about arrangement.</p>
+<p>So the tool became a bridge between the <strong><a href="/en/harmony/">Harmony</a></strong> page and an actual song. In Harmony, it is convenient to understand which chords belong to a key and which cadences you can use. In the Song Builder, you can turn that material into a living progression and hear it in tempo.</p>
+<h2>What user feedback changed</h2>
+<p>The first users were few, but their feedback made one thing clear very quickly: a simple set of diatonic chords was not enough.</p>
+<p>In real music, chords often do not appear only in root position. The bass can move more smoothly than the upper voices. One chord can lead into another through an inversion. Sometimes you need a chord from outside the key because it gives the right color or tension.</p>
+<p>After that, the Song Builder started to grow.</p>
+<p>Chord inversions appeared. Now you can use the same chord with a different note in the bass. This helps make transitions smoother and closer to how chords work in a real arrangement.</p>
+<p>Non-diatonic chords appeared too. Not to make the interface more complex, but to avoid locking the user inside one fixed set. Songs often use borrowed chords, passing movements, and unexpected colors. The tool had to allow that.</p>
+<p>A customizable grid appeared. A musical idea does not always fit into equal rectangles. Sometimes you need more space, sometimes less, and sometimes the structure itself matters.</p>
+<p>Start and end playback markers appeared. This is a small detail, but it matters in practice: you can loop one fragment, check a transition, or listen to a problem spot separately.</p>
+<p>Step by step, the Song Builder stopped being just a “chord player.” It became a workspace for sketches.</p>
+<h2>A major step: generating a song from structure</h2>
+<p>The next major improvement was a generator for full song structures.</p>
+<p>The idea came to me on a Sunday run: what if the Song Builder could not only play an existing progression, but also quickly create harmony for an entire song form?</p>
+<p>I already had a chord progression generator for a selected key. It is used in the <strong>Chord Function Trainer</strong>, and it does not simply choose from a fixed list of saved cadences. It builds progressions according to harmonic rules.</p>
+<p>The missing layer was song structure.</p>
+<p>I collected a small set of forms: verse, chorus, verse, chorus; verse, chorus, bridge, chorus; variations with an intro, a repeat, or a final chorus. From there, the logic became clear: for each song section, the tool can choose a suitable progression, then create movement, tension, or resolution between sections.</p>
+<p>To keep the result from sounding too dry, the generator can add chord colors: sus4, add9, and seventh chords. I deliberately kept this layer simple. At this stage, getting a useful idea quickly matters more than building the “smartest” harmony possible.</p>
+<p>As a result, in a couple of clicks you can get a longer progression with a song form. Not just four chords in a loop, but a sketch that already has sections, contrast, and direction.</p>
+<p>For me, this solves the blank-page problem. When there is no idea, you do not have to stare at an empty screen. You can generate a form, listen to it, remove what does not work, replace a few chords, and start moving.</p>
+<h2>New update: progressions can now be played with a beat</h2>
+<p>After adding the structure generator, it became clear that harmony alone was still not enough.</p>
+<p>A chord progression may look good, but without rhythmic context it can sound too abstract. Especially when you are not working on a harmony exercise, but on a future song. A song does not live only in chords. It lives in pulse, groove, density, and movement.</p>
+<p>That is why drum patterns are now available in the Song Builder.</p>
+<p>Now a progression can be played not only against a dry metronome click, but with a real beat. This immediately changes how the idea feels. The same set of chords can feel calm, dense, danceable, direct, or more energetic depending on the drum pattern.</p>
+<p>This update makes the Song Builder closer to a real songwriting process. When you write a song, you rarely think only: “Here are my chords.” More often, the question is: “How does this move? Where does it groove? Where does it need space? Where should the chorus open up?”</p>
+<p>A drum pattern helps you hear those things earlier. Before recording a demo. Before choosing a guitar part. Before moving the idea into a <abbr class="content-term-hint" title="Digital Audio Workstation" aria-label="DAW: Digital Audio Workstation" tabindex="0">DAW</abbr>.</p>
+<h2>Why the beat matters for a chord progression</h2>
+<p>On paper, the progression C–G–Am–F is just four chords. At a slow tempo, it can feel like a quiet ballad. With a denser beat, it can become a pop-rock chorus. With a different accent pattern, it can work as the foundation for a verse.</p>
+<p>The harmony stays the same, but the musical function changes.</p>
+<p>A beat helps you check three things.</p>
+<p>First, tempo. Sometimes the progression is good, but the chosen speed makes it feel heavy or rushed.</p>
+<p>Second, chord duration. With drums, it becomes easier to hear where a chord lasts too long, or where the change comes before the ear has time to settle.</p>
+<p>Third, section character. A verse, chorus, and bridge can use similar chords but feel different because of rhythm, density, and accents.</p>
+<p>That is why drum patterns became a natural continuation of the Song Builder. First, the tool helped hear harmony. Now it helps hear harmony in motion.</p>
+<h2>Why this is useful in practice</h2>
+<p>The Song Builder is useful not because it “writes a song.” It does not.</p>
+<p>It helps you get through the first unpleasant stage faster: from nothing to material. First, you get a frame. Then you can argue with it: keep it, replace it, simplify it, make it more complex, move it to another key, change the duration, add a pause, shorten the chorus, or choose a different beat.</p>
+<p>That is easier than starting from zero.</p>
+<p>Especially if you write songs, riffs, or teaching examples. The Song Builder does not give you the final answer. It gives you a starting point: harmony, form, and a rhythmic feel.</p>
+<h2>How I see this tool developing</h2>
+<p>I have big plans for the Song Builder because this tool matters to me personally.</p>
+<p>I do not build Six Strings App only as a collection of reference pages. Many tools appear from my own musical problems: understanding harmony better, testing ideas faster, getting stuck in theory less often, and reaching something that actually sounds sooner.</p>
+<p>The Song Builder shows this especially clearly. It sits between several important areas: harmony, form, rhythm, arrangement, and songwriting. That gives it many possible directions for growth.</p>
+<p>Over time, I want it to help not only with collecting chords, but also with hearing song form better: where a repeat is needed, where contrast is needed, where tension appears, where space should be left, and where the rhythm should become denser.</p>
+<h2>A simple workflow</h2>
+<p>You can start like this:</p>
+<ol><li>Open <strong><a href="/en/song/">Song Builder</a></strong>.</li><li>Choose a key.</li><li>Generate a song structure or build a progression manually.</li><li>Choose a drum pattern and listen to the progression with a beat.</li><li>Change chord durations if a section feels too rushed or too stretched out.</li><li>Loop a problem fragment with start and end markers.</li><li>Try inversions or non-diatonic chords if a transition feels too straight.</li><li>Save a good sketch and use it as the basis for a song, demo, or practice exercise.</li></ol>
+<p>The goal is not to find the perfect progression on the first try. The goal is to quickly get material you can hear and improve.</p>
+<h2>How Song Builder connects with other tools</h2>
+<p>The Song Builder works best not as a separate page, but together with other Six Strings App tools.</p>
+<p>If you need to understand which chords belong to a key, start with <strong><a href="/en/harmony/">Harmony</a></strong>.</p>
+<p>If you need to find playable voicings for the progression, open <strong><a href="/en/chords/">Chords, Arpeggios, Scales</a></strong>.</p>
+<p>If you want to break out of familiar keys, start with <strong><a href="/en/random-key-selector/">Random Key</a></strong>.</p>
+<p>If you already have a progression but want to work on rhythm separately, move on to the <strong><a href="/en/rhythm-metronome/">Metronome</a></strong> or the <strong><a href="/en/rhythm-generator/">Rhythm Generator</a></strong>.</p>
+<h2>Conclusion</h2>
+<p><strong><a href="/en/song/">Song Builder</a></strong> appeared from a simple need: I wanted not only to look at cadences, but to hear how they work in tempo, with different durations, and in sequence.</p>
+<p>At first, it was a chord grid for experiments. Then it gained inversions, non-diatonic chords, a customizable grid, playback markers, and other improvements. The next major step was generating a song from structure.</p>
+<p>The latest update added what was missing for a stronger sense of a real song: drum patterns. Now you can play a progression with a beat and understand earlier how it moves, where it works, and where it needs editing.</p>
+<p>It is still not a finished song. But it is no longer a blank page or dry theory. It is a sounding sketch you can start working from.</p>
+<h2>Related tools</h2>
+<ul><li><a href="/en/song/">Song Builder</a></li><li><a href="/en/harmony/">Harmony</a></li><li><a href="/en/chords/">Chords, Arpeggios, Scales</a></li><li><a href="/en/random-key-selector/">Random Key</a></li><li><a href="/en/rhythm-metronome/">Metronome</a></li><li><a href="/en/rhythm-generator/">Rhythm Generator</a></li></ul></article>
+  </div>
+  
+  <div class="bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-md p-6 space-y-3">
+    <h2 class="text-lg font-semibold text-gray-900 dark:text-white">Article navigation</h2>
+    <div class="grid gap-3 md:grid-cols-2">
+      <div class="min-h-[72px] rounded-md border border-gray-200 bg-gray-50 p-3 dark:border-gray-700 dark:bg-gray-800">
+        <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">Previous article</p>
+        <p class="mt-1 text-sm text-gray-500 dark:text-gray-400">—</p>
+      </div>
+      <div class="min-h-[72px] rounded-md border border-gray-200 bg-gray-50 p-3 dark:border-gray-700 dark:bg-gray-800">
+        <p class="text-xs font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">Next article</p>
+        <a href="/en/blog/chord-identifier-by-fingering/" class="mt-1 inline-flex text-sm font-medium text-blue-600 hover:text-blue-700 hover:underline dark:text-blue-400 dark:hover:text-blue-300">Chord Identifier by Fingering: how to find out what you are playing on the fretboard</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </main>
+  <footer class="w-full py-4 mt-auto bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-gray-700 text-sm text-gray-600 dark:text-gray-400">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
+      <div class="text-center sm:text-left">Made with love for guitars</div>
+      <div class="text-center sm:text-right">
+        <a href="/en/feedback" class="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 transition-colors">Feedback</a>
+      </div>
+    </div>
+  </footer>
+</div>
+</div>
+</body>
+
+</html>

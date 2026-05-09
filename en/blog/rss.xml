@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 06 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Song Builder: how cadences grew into a tool for progressions, structure, and groove</title>
+<link>https://sixstringsapp.com/en/blog/song-builder-chord-progressions/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/song-builder-chord-progressions/</guid>
+<pubDate>Sat, 09 May 2026 00:00:00 GMT</pubDate>
+<description>The Song Builder in Six Strings App grew from a simple idea: to hear cadences at different tempos, build chord progressions, generate song structures, and test harmony with a drum beat.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/song-builder-chord-progressions/cover.png" type="image/png" />
+</item>
 <item>
 <title>Chord Identifier by Fingering: how to find out what you are playing on the fretboard</title>
 <link>https://sixstringsapp.com/en/blog/chord-identifier-by-fingering/</link>
