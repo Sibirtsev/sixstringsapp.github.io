@@ -1,0 +1,1 @@
+import{j as o,M as n,O as r}from"./index-7RUIcpgg.js";const d=({children:a,variant:s="default",size:e="md",className:t=""})=>{const i=["ui-badge",n[s],r[e],t].filter(Boolean).join(" ");return o.jsx("span",{className:i,children:a})};export{d as B};
