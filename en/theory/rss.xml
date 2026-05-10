@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 10 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Guitar Fretboard Basics</title>
+<link>https://sixstringsapp.com/en/theory/guitar-fretboard-basics/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/guitar-fretboard-basics/</guid>
+<pubDate>Sun, 10 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of the guitar fretboard: how strings, frets, notes, semitones, and octaves are connected, why notes repeat, and where to start learning the fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/guitar-fretboard-basics/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is an Octave</title>
 <link>https://sixstringsapp.com/en/theory/what-is-an-octave/</link>

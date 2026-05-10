@@ -82,6 +82,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/fretboard-pattern-editor/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-pattern-editor/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-pattern-editor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-pattern-editor/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/caged-explorer/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/caged-explorer/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/caged-explorer/" />
@@ -254,6 +262,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-explorer/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/fretboard-pattern-editor/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-pattern-editor/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-pattern-editor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-pattern-editor/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
