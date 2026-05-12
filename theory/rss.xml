@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Mon, 11 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 12 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое гамма в музыке</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-gamma-v-muzyke/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-gamma-v-muzyke/</guid>
+<pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение гаммы: что это такое, как устроен порядок нот, зачем нужны ступени и как увидеть гамму на гитарном грифе.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-gamma-v-muzyke/cover.png" type="image/png" />
+</item>
 <item>
 <title>Как запомнить ноты на грифе</title>
 <link>https://sixstringsapp.com/ru/theory/kak-zapomnit-noty-na-grife/</link>
