@@ -130,6 +130,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/circle-diagram-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/circle-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/harmony/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/harmony/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/harmony/" />
@@ -310,6 +318,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/random-key-selector/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/random-key-selector/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/random-key-selector/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/circle-diagram-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/circle-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
