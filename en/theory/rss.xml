@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 14 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Key in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-key-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-key-in-music/</guid>
+<pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of musical keys: what a tonal center is, how a key differs from a scale, why the tonic matters, and how keys connect melodies, chords, and the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-key-in-music/cover.png" type="image/png" />
+</item>
 <item>
 <title>How to Build a Natural Minor Scale</title>
 <link>https://sixstringsapp.com/en/theory/how-to-build-a-natural-minor-scale/</link>

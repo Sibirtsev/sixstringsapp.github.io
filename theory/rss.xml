@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 14 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 15 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое тональность</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-tonalnost/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-tonalnost/</guid>
+<pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение тональности: что такое музыкальный центр, чем тональность отличается от гаммы, зачем нужна тоника и как тональность связана с мелодиями, аккордами и гитарным грифом.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-tonalnost/cover.png" type="image/png" />
+</item>
 <item>
 <title>Как строится мажорная гамма</title>
 <link>https://sixstringsapp.com/ru/theory/kak-stroitsya-mazhornaya-gamma/</link>
