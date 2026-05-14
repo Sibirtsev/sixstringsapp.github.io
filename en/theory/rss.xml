@@ -5,8 +5,24 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 13 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 14 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How to Build a Natural Minor Scale</title>
+<link>https://sixstringsapp.com/en/theory/how-to-build-a-natural-minor-scale/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/how-to-build-a-natural-minor-scale/</guid>
+<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of the natural minor scale: its whole-step and half-step formula, the example of A minor, how it differs from major, and how to see it on the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/how-to-build-a-natural-minor-scale/cover.png" type="image/png" />
+</item>
+<item>
+<title>How to Build a Major Scale</title>
+<link>https://sixstringsapp.com/en/theory/major-scale-construction/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/major-scale-construction/</guid>
+<pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of the major scale: how the whole-step and half-step formula works, how to build a major scale from any note, and how to see it on the guitar fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/major-scale-construction/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is a Scale Degree</title>
 <link>https://sixstringsapp.com/en/theory/what-is-a-scale-degree/</link>
