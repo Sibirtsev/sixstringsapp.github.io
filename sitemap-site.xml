@@ -138,6 +138,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/piano-diagram-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/piano-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/piano-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/piano-diagram-builder/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/harmony/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/harmony/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/harmony/" />
@@ -326,6 +334,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/circle-diagram-builder/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/circle-diagram-builder/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/piano-diagram-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/piano-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/piano-diagram-builder/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/piano-diagram-builder/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
