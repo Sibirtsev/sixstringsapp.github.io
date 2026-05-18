@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-05-14T19:31:48.710Z",
+  "generatedAt": "2026-05-18T08:52:23.804Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-akkord-v-muzyke/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-akkord-v-muzyke/",
+        "en": "/en/theory/what-is-a-chord-in-music/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-akkord-v-muzyke/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-18"
+    },
+    {
+      "path": "/en/theory/what-is-a-chord-in-music/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-akkord-v-muzyke/",
+        "en": "/en/theory/what-is-a-chord-in-music/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-akkord-v-muzyke/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-18"
+    },
     {
       "path": "/ru/theory/chto-takoe-tonalnost/",
       "language": "ru",
@@ -535,6 +559,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/category/chords/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -667,6 +702,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
       "language": "ru",
       "alternates": {
@@ -685,6 +731,17 @@
         "en": "/en/theory/tag/interval/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/tag/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -766,6 +823,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+        "en": "/en/theory/tag/chord/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -773,6 +841,17 @@
         "en": "/en/theory/tag/chords/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+        "en": "/en/theory/tag/fingering/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -799,13 +878,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "path": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/harmony/"
+        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/theory/tag/guitar/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -828,17 +907,6 @@
         "en": "/en/theory/tag/memorization/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/tag/intervals/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -997,6 +1065,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/triad/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%83%D0%BF%D1%80%D0%B0%D0%B6%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1147,6 +1226,17 @@
         "en": "/en/theory/category/sound/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B7%D0%B2%D1%83%D0%BA/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/en/theory/category/chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/category/chords/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1305,6 +1395,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/harmony/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/interval/",
       "language": "en",
       "alternates": {
@@ -1312,6 +1413,17 @@
         "en": "/en/theory/tag/interval/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/intervals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/tag/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1415,6 +1527,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/chord/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+        "en": "/en/theory/tag/chord/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/chords/",
       "language": "en",
       "alternates": {
@@ -1470,6 +1593,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/fingering/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+        "en": "/en/theory/tag/fingering/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/frets/",
       "language": "en",
       "alternates": {
@@ -1481,24 +1615,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/harmony/",
+      "path": "/en/theory/tag/guitar/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/harmony/"
+        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/theory/tag/guitar/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/intervals/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/tag/intervals/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1609,6 +1732,17 @@
         "en": "/en/theory/tag/time-signature/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/triad/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/triad/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
