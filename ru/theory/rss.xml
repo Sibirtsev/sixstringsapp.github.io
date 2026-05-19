@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Mon, 18 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Как строятся трезвучия</title>
+<link>https://sixstringsapp.com/ru/theory/kak-stroyatsya-trezvuchiya/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/kak-stroyatsya-trezvuchiya/</guid>
+<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение трезвучий: что такое трезвучие, как оно строится из терций, чем отличаются мажорное, минорное, уменьшённое и увеличенное трезвучия и как увидеть их на гитаре.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/kak-stroyatsya-trezvuchiya/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое аккорд в музыке</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-akkord-v-muzyke/</link>

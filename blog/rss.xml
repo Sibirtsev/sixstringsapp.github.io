@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/blog</link>
 <description>Статьи Six Strings App: ритм, аккорды, гриф, гаммы, гармония и слух.</description>
 <language>ru-RU</language>
-<lastBuildDate>Sat, 09 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Генератор ритма: как тренировать сложные рисунки и находить идеи для риффов</title>
+<link>https://sixstringsapp.com/ru/blog/generator-ritma-dlya-riffov-i-melodiy/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/generator-ritma-dlya-riffov-i-melodiy/</guid>
+<pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
+<description>Как использовать генератор ритма в Six Strings App для риффов, мелодий, гамм и упражнений: случайные паттерны, разные размеры, квинтоли, секстоли и практика под метроном.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/generator-ritma-dlya-riffov-i-melodiy/cover.png" type="image/png" />
+</item>
 <item>
 <title>Конструктор песен: как из каденций вырос инструмент для прогрессий, структуры и бита</title>
 <link>https://sixstringsapp.com/ru/blog/konstruktor-pesen-akkordovye-posledovatelnosti/</link>
