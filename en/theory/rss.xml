@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Sat, 16 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Rest in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-rest-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-rest-in-music/</guid>
+<pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of rests in music: why silence matters, how to count rests, how rest durations work, and how to practice rests on guitar.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-rest-in-music/cover.png" type="image/png" />
+</item>
 <item>
 <title>How Triads Are Built</title>
 <link>https://sixstringsapp.com/en/theory/how-triads-are-built/</link>
