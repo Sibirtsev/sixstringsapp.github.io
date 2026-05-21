@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-05-21T09:39:51.210Z",
+  "generatedAt": "2026-05-21T13:38:09.689Z",
   "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/opredelitel-gamm-po-notam/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/opredelitel-gamm-po-notam/",
+        "en": "/en/blog/scale-identifier-by-notes/"
+      },
+      "xDefaultPath": "/ru/blog/opredelitel-gamm-po-notam/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-21",
+      "title": "Определитель гамм: как найти гамму по набору нот",
+      "description": "Определитель гамм помогает найти гамму по набору нот: для разбора мелодий, риффов, импровизации, преподавания и проверки музыкальных идей на грифе.",
+      "date": "2026-05-21",
+      "intro": "Иногда у вас есть не название гаммы, а только несколько нот: мелодия из песни, рифф, вокальная фраза, набор звуков из импровизации или упражнение ученика. Определитель гамм помогает быстро понять, во что эти ноты складываются и какие гаммы могут стоять за этим материалом.",
+      "coverImageUrl": "/blog-assets/ru/opredelitel-gamm-po-notam/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/scale-identifier-by-notes/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/opredelitel-gamm-po-notam/",
+        "en": "/en/blog/scale-identifier-by-notes/"
+      },
+      "xDefaultPath": "/ru/blog/opredelitel-gamm-po-notam/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-21",
+      "title": "Scale Identifier: How to Find a Scale from a Set of Notes",
+      "description": "The Scale Identifier helps you find possible scales from a set of notes: useful for analyzing melodies, riffs, improvisation ideas, lessons, and fretboard practice.",
+      "date": "2026-05-21",
+      "intro": "Sometimes you do not start with a scale name. You only have a few notes: a melody from a song, a riff, a vocal phrase, an improvisation idea, or a student’s exercise. The Scale Identifier helps you quickly see what those notes may form and which scales may fit the material.",
+      "coverImageUrl": "/blog-assets/en/scale-identifier-by-notes/cover.png"
+    },
     {
       "entryType": "post",
       "path": "/ru/blog/generator-ritma-dlya-riffov-i-melodiy/",
@@ -474,6 +510,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/blog/tag/music-theory/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -487,6 +536,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
+        "en": "/en/blog/tag/fretboard/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D1%80%D0%B8%D1%82%D0%BC/",
       "language": "ru",
       "alternates": {
@@ -497,19 +559,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-19"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-        "en": "/en/blog/tag/music-theory/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
@@ -548,20 +597,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-05"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
-        "en": "/en/blog/tag/fretboard/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-06"
+      "lastmod": "2026-05-21"
     },
     {
       "entryType": "tag",
@@ -574,7 +610,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-19"
+      "lastmod": "2026-05-21"
     },
     {
       "entryType": "tag",
@@ -587,7 +623,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-06"
+      "lastmod": "2026-05-21"
     },
     {
       "entryType": "tag",
@@ -617,6 +653,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/six-strings-app/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/six-strings-app/",
+        "en": "/en/blog/tag/six-strings-app/"
+      },
+      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B5%D0%BC%D0%B5%D0%BD%D1%82/",
       "language": "ru",
       "alternates": {
@@ -627,19 +676,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-24"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B/",
-        "en": "/en/blog/tag/chord-shapes/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
@@ -692,19 +728,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-24"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B8%D1%84/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B8%D1%84/",
-        "en": "/en/blog/tag/fretboard/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B8%D1%84/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
@@ -1072,19 +1095,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/six-strings-app/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/six-strings-app/",
-        "en": "/en/blog/tag/six-strings-app/"
-      },
-      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-03-31"
-    },
-    {
-      "entryType": "tag",
       "path": "/en/blog/tag/chords/",
       "language": "en",
       "alternates": {
@@ -1111,6 +1121,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/music-theory/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/blog/tag/music-theory/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/practice/",
       "language": "en",
       "alternates": {
@@ -1124,6 +1147,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/fretboard/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
+        "en": "/en/blog/tag/fretboard/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D1%80%D0%B8%D1%84/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/harmony/",
       "language": "en",
       "alternates": {
@@ -1134,19 +1170,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/music-theory/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-        "en": "/en/blog/tag/music-theory/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
@@ -1179,26 +1202,52 @@
       "path": "/en/blog/tag/chord-shapes/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B/",
+        "ru": "/ru/blog/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D1%8B/",
         "en": "/en/blog/tag/chord-shapes/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D1%84%D0%BE%D1%80%D0%BC%D1%8B/",
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-06"
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/fretboard/",
+      "path": "/en/blog/tag/improvisation/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B8%D1%84/",
-        "en": "/en/blog/tag/fretboard/"
+        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
+        "en": "/en/blog/tag/improvisation/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D1%8B%D0%B9-%D0%B3%D1%80%D0%B8%D1%84/",
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-06"
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/intervals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/blog/tag/intervals/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/scales/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+        "en": "/en/blog/tag/scales/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-21"
     },
     {
       "entryType": "tag",
@@ -1215,32 +1264,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/improvisation/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
-        "en": "/en/blog/tag/improvisation/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-19"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/intervals/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/blog/tag/intervals/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-06"
-    },
-    {
-      "entryType": "tag",
       "path": "/en/blog/tag/key/",
       "language": "en",
       "alternates": {
@@ -1254,16 +1277,16 @@
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/scales/",
+      "path": "/en/blog/tag/six-strings-app/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
-        "en": "/en/blog/tag/scales/"
+        "ru": "/ru/blog/tag/six-strings-app/",
+        "en": "/en/blog/tag/six-strings-app/"
       },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-05"
+      "lastmod": "2026-05-21"
     },
     {
       "entryType": "tag",
@@ -1615,19 +1638,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-08"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/six-strings-app/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/six-strings-app/",
-        "en": "/en/blog/tag/six-strings-app/"
-      },
-      "xDefaultPath": "/ru/blog/tag/six-strings-app/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-03-31"
     },
     {
       "entryType": "tag",

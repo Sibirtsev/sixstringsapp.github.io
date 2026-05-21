@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 19 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Scale Identifier: How to Find a Scale from a Set of Notes</title>
+<link>https://sixstringsapp.com/en/blog/scale-identifier-by-notes/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/scale-identifier-by-notes/</guid>
+<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+<description>The Scale Identifier helps you find possible scales from a set of notes: useful for analyzing melodies, riffs, improvisation ideas, lessons, and fretboard practice.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/scale-identifier-by-notes/cover.png" type="image/png" />
+</item>
 <item>
 <title>Rhythm Generator: How to Practice Complex Patterns and Find Riff Ideas</title>
 <link>https://sixstringsapp.com/en/blog/rhythm-generator-for-riffs-and-melodies/</link>
