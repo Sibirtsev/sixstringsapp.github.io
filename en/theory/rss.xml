@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 20 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Bar in Music</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-bar-in-music/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-bar-in-music/</guid>
+<pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of bars in music: what a bar is, how it differs from a beat and a time signature, why bar lines matter, and how to count bars when playing guitar.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-bar-in-music/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is a Rest in Music</title>
 <link>https://sixstringsapp.com/en/theory/what-is-a-rest-in-music/</link>
