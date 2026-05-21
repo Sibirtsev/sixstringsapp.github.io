@@ -1,6 +1,6 @@
 {
-    "name": "Guitar Tools",
-    "short_name": "GuitarTools",
+    "name": "SixStrings App",
+    "short_name": "SixStringsApp",
     "description": "Professional guitar tools and utilities",
     "start_url": "/",
     "display": "standalone",
