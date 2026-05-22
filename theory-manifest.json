@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-05-21T13:38:10.918Z",
+  "generatedAt": "2026-05-22T11:51:43.582Z",
   "entries": [
+    {
+      "path": "/ru/theory/silnaya-i-slabaya-dolya/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/silnaya-i-slabaya-dolya/",
+        "en": "/en/theory/strong-and-weak-beats/"
+      },
+      "xDefaultPath": "/ru/theory/silnaya-i-slabaya-dolya/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-22"
+    },
+    {
+      "path": "/en/theory/strong-and-weak-beats/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/silnaya-i-slabaya-dolya/",
+        "en": "/en/theory/strong-and-weak-beats/"
+      },
+      "xDefaultPath": "/ru/theory/silnaya-i-slabaya-dolya/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-22"
+    },
     {
       "path": "/ru/theory/chto-takoe-takt-v-muzyke/",
       "language": "ru",
@@ -697,17 +721,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-        "en": "/en/theory/tag/pulse/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -715,6 +728,17 @@
         "en": "/en/theory/tag/guitar/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+        "en": "/en/theory/tag/pulse/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -785,6 +809,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+        "en": "/en/theory/tag/time-signature/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "language": "ru",
       "alternates": {
@@ -840,6 +875,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/measure/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
       "language": "ru",
       "alternates": {
@@ -891,17 +937,6 @@
         "en": "/en/theory/tag/fretboard-notes/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D1%84%D0%B5/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-        "en": "/en/theory/tag/time-signature/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -972,6 +1007,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82/",
+        "en": "/en/theory/tag/accent/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -1001,17 +1047,6 @@
         "en": "/en/theory/tag/pitch/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0-%D0%B7%D0%B2%D1%83%D0%BA%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-        "en": "/en/theory/tag/measure/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1144,6 +1179,28 @@
         "en": "/en/theory/tag/distance-between-notes/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-%D0%BC%D0%B5%D0%B6%D0%B4%D1%83-%D0%BD%D0%BE%D1%82%D0%B0%D0%BC%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/strong-beat/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/weak-beat/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1423,6 +1480,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/guitar/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/theory/tag/guitar/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/pulse/",
       "language": "en",
       "alternates": {
@@ -1441,17 +1509,6 @@
         "en": "/en/theory/tag/basics/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/guitar/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-        "en": "/en/theory/tag/guitar/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1529,6 +1586,17 @@
         "en": "/en/theory/tag/tempo/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/time-signature/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+        "en": "/en/theory/tag/time-signature/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1621,6 +1689,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/measure/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/measure/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/note/",
       "language": "en",
       "alternates": {
@@ -1665,17 +1744,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/time-signature/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-        "en": "/en/theory/tag/time-signature/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/tonic/",
       "language": "en",
       "alternates": {
@@ -1694,6 +1762,17 @@
         "en": "/en/theory/tag/triad/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/accent/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82/",
+        "en": "/en/theory/tag/accent/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1819,17 +1898,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/measure/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-        "en": "/en/theory/tag/measure/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/memorization/",
       "language": "en",
       "alternates": {
@@ -1918,6 +1986,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/strong-beat/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/strong-beat/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/thirds/",
       "language": "en",
       "alternates": {
@@ -1925,6 +2004,17 @@
         "en": "/en/theory/tag/thirds/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/weak-beat/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/weak-beat/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
