@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-05-23T08:12:11.129Z",
+  "generatedAt": "2026-05-23T19:40:46.919Z",
   "entries": [
+    {
+      "path": "/ru/theory/chem-razmer-otlichaetsya-ot-tempa/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chem-razmer-otlichaetsya-ot-tempa/",
+        "en": "/en/theory/time-signature-vs-tempo/"
+      },
+      "xDefaultPath": "/ru/theory/chem-razmer-otlichaetsya-ot-tempa/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-23"
+    },
+    {
+      "path": "/en/theory/time-signature-vs-tempo/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chem-razmer-otlichaetsya-ot-tempa/",
+        "en": "/en/theory/time-signature-vs-tempo/"
+      },
+      "xDefaultPath": "/ru/theory/chem-razmer-otlichaetsya-ot-tempa/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-23"
+    },
     {
       "path": "/ru/theory/silnaya-i-slabaya-dolya/",
       "language": "ru",
@@ -754,6 +778,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+        "en": "/en/theory/tag/time-signature/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -765,6 +800,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -772,6 +818,17 @@
         "en": "/en/theory/tag/scale/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/measure/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -809,24 +866,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "path": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-        "en": "/en/theory/tag/time-signature/"
+        "ru": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
+        "en": "/en/theory/tag/bar/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -871,17 +917,6 @@
         "en": "/en/theory/tag/duration/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-        "en": "/en/theory/tag/measure/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -941,17 +976,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
-        "en": "/en/theory/tag/bar/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
       "language": "ru",
       "alternates": {
@@ -992,6 +1016,17 @@
         "en": "/en/theory/tag/scale-formula/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/bpm/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/bpm/",
+        "en": "/en/theory/tag/bpm/"
+      },
+      "xDefaultPath": "/ru/theory/tag/bpm/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1271,17 +1306,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/bpm/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/bpm/",
-        "en": "/en/theory/tag/bpm/"
-      },
-      "xDefaultPath": "/ru/theory/tag/bpm/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/level/listener/",
       "language": "ru",
       "alternates": {
@@ -1524,6 +1548,39 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/tempo/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/time-signature/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+        "en": "/en/theory/tag/time-signature/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/bar/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
+        "en": "/en/theory/tag/bar/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/intervals/",
       "language": "en",
       "alternates": {
@@ -1531,6 +1588,17 @@
         "en": "/en/theory/tag/intervals/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/measure/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
+        "en": "/en/theory/tag/measure/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1579,28 +1647,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/tempo/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/time-signature/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-        "en": "/en/theory/tag/time-signature/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/tone/",
       "language": "en",
       "alternates": {
@@ -1612,13 +1658,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/bar/",
+      "path": "/en/theory/tag/bpm/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
-        "en": "/en/theory/tag/bar/"
+        "ru": "/ru/theory/tag/bpm/",
+        "en": "/en/theory/tag/bpm/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B0%D0%BA%D1%82/",
+      "xDefaultPath": "/ru/theory/tag/bpm/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1685,17 +1731,6 @@
         "en": "/en/theory/tag/key/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/measure/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-        "en": "/en/theory/tag/measure/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1784,17 +1819,6 @@
         "en": "/en/theory/tag/beat/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D1%87%D1%91%D1%82/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/bpm/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/bpm/",
-        "en": "/en/theory/tag/bpm/"
-      },
-      "xDefaultPath": "/ru/theory/tag/bpm/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
