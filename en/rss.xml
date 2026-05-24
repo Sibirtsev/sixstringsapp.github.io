@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/en</link>
 <description>Six Strings App blog and theory in English: rhythm, chords, fretboard, harmony, and practice.</description>
 <language>en-US</language>
-<lastBuildDate>Sat, 23 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Simple Intervals in Music</title>
+<link>https://sixstringsapp.com/en/theory/basic-musical-intervals/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/basic-musical-intervals/</guid>
+<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Theory</category>
+<description>A simple explanation of intervals within one octave: how to count unisons, seconds, thirds, fourths, fifths, sixths, sevenths, and octaves, how to hear them, and how to find them on guitar.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/basic-musical-intervals/cover.png" type="image/png" />
+</item>
 <item>
 <title>Time Signature vs Tempo: What Is the Difference</title>
 <link>https://sixstringsapp.com/en/theory/time-signature-vs-tempo/</link>
