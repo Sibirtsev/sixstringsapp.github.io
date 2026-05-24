@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/microtone-trainer-for-bends/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/blog/microtone-trainer-for-bends/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/microtone-trainer-for-bends/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/blog/opredelitel-gamm-po-notam/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/opredelitel-gamm-po-notam/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/scale-identifier-by-notes/" />
@@ -236,6 +254,15 @@
     <priority>0.75</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/guitar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/chords/" />
@@ -245,20 +272,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/guitar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
-    <lastmod>2026-05-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/practice/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
-    <lastmod>2026-05-19</lastmod>
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -407,6 +425,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%B5%D0%BD%D0%B4%D1%8B/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%B5%D0%BD%D0%B4%D1%8B/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/bends/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%B5%D0%BD%D0%B4%D1%8B/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%BE%D0%B9/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%BE%D0%B9/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/strumming/" />
@@ -430,6 +457,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/drum-machine/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B4%D1%80%D0%B0%D0%BC-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0/" />
     <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/intonation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/" />
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -587,6 +623,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/ear-training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/saved-rhythms/" />
@@ -619,6 +664,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/timing/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D0%B0%D0%B9%D0%BC%D0%B8%D0%BD%D0%B3/" />
     <lastmod>2026-04-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/blog/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/microtone-trainer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2/" />
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -668,6 +722,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/blog/tag/guitar/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/guitar/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/blog/tag/chords/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/chords/" />
@@ -677,11 +740,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/blog/tag/guitar/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/guitar/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
-    <lastmod>2026-05-19</lastmod>
+    <loc>https://sixstringsapp.com/en/blog/tag/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/practice/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -691,15 +754,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/music-theory/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/" />
     <lastmod>2026-05-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/blog/tag/practice/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/practice/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
-    <lastmod>2026-05-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -830,6 +884,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/blog/tag/bends/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%B5%D0%BD%D0%B4%D1%8B/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/bends/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B1%D0%B5%D0%BD%D0%B4%D1%8B/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/blog/tag/benny-greb/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/benny-greb/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/benny-greb/" />
@@ -875,6 +938,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/blog/tag/ear-training/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/ear-training/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/blog/tag/groove/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B3%D1%80%D1%83%D0%B2/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/groove/" />
@@ -902,6 +974,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/blog/tag/intonation/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/intonation/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/" />
+    <lastmod>2026-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/blog/tag/major/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D0%BC%D0%B0%D0%B6%D0%BE%D1%80/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/major/" />
@@ -925,6 +1006,15 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/metronome/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
     <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/blog/tag/microtone-trainer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/blog/tag/microtone-trainer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/blog/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D1%91%D1%80-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%82%D0%BE%D0%BD%D0%BE%D0%B2/" />
+    <lastmod>2026-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>

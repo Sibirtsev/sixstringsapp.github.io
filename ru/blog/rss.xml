@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/blog</link>
 <description>Статьи Six Strings App: ритм, аккорды, гриф, гаммы, гармония и слух.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 21 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 24 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Тренажёр микротонов: как я стал точнее слышать бенды и интонацию на гитаре</title>
+<link>https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/trenazher-mikrotonov-dlya-bendov/</guid>
+<pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+<description>Почему я сделал тренажёр микротонов для практики бендов и интонации: две близкие ноты, мгновенная проверка и перенос навыка на гитару.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/trenazher-mikrotonov-dlya-bendov/cover.png" type="image/png" />
+</item>
 <item>
 <title>Определитель гамм: как найти гамму по набору нот</title>
 <link>https://sixstringsapp.com/ru/blog/opredelitel-gamm-po-notam/</link>
