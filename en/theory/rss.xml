@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Sun, 24 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Fretboard Position</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-fretboard-position/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-fretboard-position/</guid>
+<pubDate>Tue, 26 May 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of guitar fretboard positions: how they relate to hand placement, fingering, scales, and position shifts when playing phrases and riffs.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-fretboard-position/cover.png" type="image/png" />
+</item>
 <item>
 <title>Simple Intervals in Music</title>
 <link>https://sixstringsapp.com/en/theory/basic-musical-intervals/</link>

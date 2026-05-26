@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-05-25T21:55:51.708Z",
+  "generatedAt": "2026-05-26T07:41:16.629Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-pozitsiya-na-grife/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-pozitsiya-na-grife/",
+        "en": "/en/theory/what-is-a-fretboard-position/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-pozitsiya-na-grife/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-26"
+    },
+    {
+      "path": "/en/theory/what-is-a-fretboard-position/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-pozitsiya-na-grife/",
+        "en": "/en/theory/what-is-a-fretboard-position/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-pozitsiya-na-grife/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-26"
+    },
     {
       "path": "/ru/theory/chto-takoe-applikatura/",
       "language": "ru",
@@ -716,6 +740,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/category/guitar-practice/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D0%B7%D0%B2%D1%83%D0%BA/",
       "language": "ru",
       "alternates": {
@@ -756,17 +791,6 @@
         "en": "/en/theory/category/harmony/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/category/guitar-practice/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -892,6 +916,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+        "en": "/en/theory/tag/fingering/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -954,17 +989,6 @@
         "en": "/en/theory/tag/tone/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
-        "en": "/en/theory/tag/fingering/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1035,6 +1059,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+        "en": "/en/theory/tag/notes/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B8%D1%84%D0%B5/",
       "language": "ru",
       "alternates": {
@@ -1064,6 +1099,17 @@
         "en": "/en/theory/tag/ear-training/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/technique/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1167,6 +1213,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+        "en": "/en/theory/tag/scales/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B7%D0%B0%D0%BF%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5/",
       "language": "ru",
       "alternates": {
@@ -1266,6 +1323,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/navigation/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%82/",
       "language": "ru",
       "alternates": {
@@ -1288,17 +1356,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
-        "en": "/en/theory/tag/notes/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1317,6 +1374,17 @@
         "en": "/en/theory/tag/fingers/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/position/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1427,17 +1495,6 @@
         "en": "/en/theory/tag/third/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/tag/technique/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1574,6 +1631,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/guitar-practice/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/category/guitar-practice/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/notes/",
       "language": "en",
       "alternates": {
@@ -1603,17 +1671,6 @@
         "en": "/en/theory/category/sound/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B7%D0%B2%D1%83%D0%BA/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/guitar-practice/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/category/guitar-practice/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1761,6 +1818,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/fingering/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+        "en": "/en/theory/tag/fingering/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/measure/",
       "language": "en",
       "alternates": {
@@ -1860,17 +1928,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/fingering/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
-        "en": "/en/theory/tag/fingering/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/fretboard-notes/",
       "language": "en",
       "alternates": {
@@ -1926,6 +1983,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/notes/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+        "en": "/en/theory/tag/notes/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/octave/",
       "language": "en",
       "alternates": {
@@ -1966,6 +2034,17 @@
         "en": "/en/theory/tag/sound/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B7%D0%B2%D1%83%D0%BA/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/technique/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/technique/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2179,6 +2258,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/navigation/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/navigation/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/note-names/",
       "language": "en",
       "alternates": {
@@ -2190,13 +2280,24 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/notes/",
+      "path": "/en/theory/tag/position/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
-        "en": "/en/theory/tag/notes/"
+        "ru": "/ru/theory/tag/%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/position/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%BE%D1%82%D1%8B/",
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/scales/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+        "en": "/en/theory/tag/scales/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2230,17 +2331,6 @@
         "en": "/en/theory/tag/strong-beat/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/technique/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/tag/technique/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
