@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sixstringsapp.com/ru/theory/chto-takoe-minor/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/chto-takoe-minor/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/what-is-minor-in-music/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/chto-takoe-minor/" />
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/theory/what-is-minor-in-music/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/chto-takoe-minor/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/what-is-minor-in-music/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/chto-takoe-minor/" />
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/theory/chto-takoe-mazhor/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/chto-takoe-mazhor/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/what-is-major-in-music/" />
@@ -556,18 +574,18 @@
     <priority>0.65</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/chords/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.65</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/harmony/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/chords/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
     <changefreq>weekly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -628,14 +646,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/metronome/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/guitar/" />
@@ -644,10 +654,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/metronome/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/pulse/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/harmony/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -692,6 +718,14 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/key/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/chords/" />
@@ -712,14 +746,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/scale/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/harmony/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -756,18 +782,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/tone/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/" />
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/third/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/key/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/tone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -812,10 +838,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/music-theory/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/natural-minor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -856,14 +898,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/ear-training/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/third/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -996,18 +1030,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor-scale/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor-chord/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1024,14 +1058,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%82/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/note-names/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%82/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/natural-minor/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1212,6 +1238,14 @@
     <priority>0.65</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/theory/category/harmony/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/harmony/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/theory/category/chords/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/chords/" />
@@ -1232,14 +1266,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/guitar-practice/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.65</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/theory/category/harmony/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/category/harmony/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.65</priority>
   </url>
@@ -1284,18 +1310,18 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/metronome/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/metronome/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/en/theory/tag/guitar/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/guitar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/metronome/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/metronome/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1316,10 +1342,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/harmony/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/harmony/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/theory/tag/intervals/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/intervals/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/key/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/key/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1372,22 +1414,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/harmony/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/harmony/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/key/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/key/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://sixstringsapp.com/en/theory/tag/measure/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/measure/" />
@@ -1424,6 +1450,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BF%D0%BE%D0%BB%D1%83%D1%82%D0%BE%D0%BD/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/semitone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BF%D0%BE%D0%BB%D1%83%D1%82%D0%BE%D0%BD/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/third/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/third/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1492,6 +1526,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/minor/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/theory/tag/natural-minor/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/natural-minor/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/en/theory/tag/note/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%BE%D1%82%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/note/" />
@@ -1544,14 +1594,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/technique/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/third/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/third/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1676,10 +1718,10 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/minor/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
+    <loc>https://sixstringsapp.com/en/theory/tag/minor-chord/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor-chord/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1688,14 +1730,6 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/minor-scale/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/" />
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sixstringsapp.com/en/theory/tag/natural-minor/</loc>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/tag/natural-minor/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/tag/%D0%BD%D0%B0%D1%82%D1%83%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/" />
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
