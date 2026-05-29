@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-05-29T05:38:02.869Z",
+  "generatedAt": "2026-05-29T12:30:03.606Z",
   "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/trenazher-intervalov-na-sluh/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/trenazher-intervalov-na-sluh/",
+        "en": "/en/blog/interval-ear-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/trenazher-intervalov-na-sluh/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-29",
+      "title": "Тренажёр интервалов: как развивать слух относительно дрона",
+      "description": "Тренажёр интервалов с дроном в приложении «Шесть Струн» (Six Strings App): как слышать расстояние между нотами, тренировать слух и применять это в музыке.",
+      "date": "2026-05-29",
+      "intro": "Интервал легче услышать, когда у ноты есть опора. В тренажёре постоянно звучит дрон, а поверх него — нота, расстояние до которой нужно определить. Это простой способ тренировать слух не в отрыве от музыки, а относительно устойчивого центра.",
+      "coverImageUrl": "/blog-assets/ru/trenazher-intervalov-na-sluh/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/interval-ear-trainer/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/trenazher-intervalov-na-sluh/",
+        "en": "/en/blog/interval-ear-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/trenazher-intervalov-na-sluh/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-05-29",
+      "title": "Interval Ear Trainer: How to Train Your Ear with a Drone",
+      "description": "Practice hearing intervals against a drone in Six Strings App: recognize distances between notes, develop your ear, and connect training with real music.",
+      "date": "2026-05-29",
+      "intro": "An interval is easier to hear when the note has a reference point. In this trainer, a drone plays continuously while another note sounds above it. Your task is to identify the distance between them and learn to hear intervals relative to a stable tonal center.",
+      "coverImageUrl": "/blog-assets/en/interval-ear-trainer/cover.png"
+    },
     {
       "entryType": "post",
       "path": "/ru/blog/trenazher-mikrotonov-dlya-bendov/",
@@ -516,7 +552,20 @@
       "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-24"
+      "lastmod": "2026-05-29"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/blog/tag/practice/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -530,19 +579,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/blog/tag/practice/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-24"
     },
     {
       "entryType": "tag",
@@ -582,6 +618,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/blog/tag/intervals/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -650,19 +699,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/blog/tag/intervals/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-21"
-    },
-    {
-      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -673,6 +709,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+        "en": "/en/blog/tag/ear-training/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -803,6 +852,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-13"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B4%D1%80%D0%BE%D0%BD/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B4%D1%80%D0%BE%D0%BD/",
+        "en": "/en/blog/tag/drone/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B4%D1%80%D0%BE%D0%BD/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -1040,19 +1102,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-        "en": "/en/blog/tag/ear-training/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-24"
-    },
-    {
-      "entryType": "tag",
       "path": "/ru/blog/tag/%D1%81%D0%BE%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%B2/",
       "language": "ru",
       "alternates": {
@@ -1192,7 +1241,20 @@
       "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-24"
+      "lastmod": "2026-05-29"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/practice/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/blog/tag/practice/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -1206,19 +1268,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/practice/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/blog/tag/practice/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-24"
     },
     {
       "entryType": "tag",
@@ -1258,6 +1307,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/intervals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/blog/tag/intervals/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -1313,19 +1375,6 @@
     },
     {
       "entryType": "tag",
-      "path": "/en/blog/tag/intervals/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/blog/tag/intervals/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-21"
-    },
-    {
-      "entryType": "tag",
       "path": "/en/blog/tag/scales/",
       "language": "en",
       "alternates": {
@@ -1349,6 +1398,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/ear-training/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+        "en": "/en/blog/tag/ear-training/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
     },
     {
       "entryType": "tag",
@@ -1469,6 +1531,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/drone/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B4%D1%80%D0%BE%D0%BD/",
+        "en": "/en/blog/tag/drone/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B4%D1%80%D0%BE%D0%BD/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-29"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/drum-machine/",
       "language": "en",
       "alternates": {
@@ -1492,19 +1567,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/ear-training/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-        "en": "/en/blog/tag/ear-training/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-24"
     },
     {
       "entryType": "tag",

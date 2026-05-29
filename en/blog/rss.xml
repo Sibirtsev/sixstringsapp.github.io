@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/blog</link>
 <description>Six Strings App articles: rhythm, chords, fretboard, scales, harmony, and ear training.</description>
 <language>en-US</language>
-<lastBuildDate>Sun, 24 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 29 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/blog/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Interval Ear Trainer: How to Train Your Ear with a Drone</title>
+<link>https://sixstringsapp.com/en/blog/interval-ear-trainer/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/interval-ear-trainer/</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
+<description>Practice hearing intervals against a drone in Six Strings App: recognize distances between notes, develop your ear, and connect training with real music.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/interval-ear-trainer/cover.png" type="image/png" />
+</item>
 <item>
 <title>Microtone Trainer: How I Learned to Hear Guitar Bends and Intonation More Accurately</title>
 <link>https://sixstringsapp.com/en/blog/microtone-trainer-for-bends/</link>
