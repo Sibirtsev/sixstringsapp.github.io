@@ -1,1 +1,0 @@
-import{j as i,W as l,X as t}from"./index-OnvTNlG6.js";const m=({children:a,className:s="",padding:r="md",shadow:o="md",hover:d=!1})=>{const e=["ui-card",l[r],t[o],d?"is-hoverable":"",s].filter(Boolean).join(" ");return i.jsx("div",{className:e,children:a})};export{m as C};
