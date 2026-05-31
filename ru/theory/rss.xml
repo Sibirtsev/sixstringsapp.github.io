@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Sat, 30 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Аккорд и аппликатура: в чём разница</title>
+<link>https://sixstringsapp.com/ru/theory/akkord-i-applikatura-v-chem-raznitsa/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/akkord-i-applikatura-v-chem-raznitsa/</guid>
+<pubDate>Sun, 31 May 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение разницы между аккордом и аппликатурой: почему один аккорд можно сыграть в разных местах грифа и зачем это понимать гитаристу.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/akkord-i-applikatura-v-chem-raznitsa/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое арпеджио в музыке</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-arpedzhio/</link>
