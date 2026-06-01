@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Sun, 31 May 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How to Train Intervals by Ear</title>
+<link>https://sixstringsapp.com/en/theory/how-to-train-intervals-by-ear/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/how-to-train-intervals-by-ear/</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+<description>A practical guide to interval ear training: how to hear melodic and harmonic intervals, avoid guessing, and connect your ear to the fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/how-to-train-intervals-by-ear/cover.png" type="image/png" />
+</item>
 <item>
 <title>Chord vs Fingering: What&apos;s the Difference</title>
 <link>https://sixstringsapp.com/en/theory/chord-vs-fingering/</link>
