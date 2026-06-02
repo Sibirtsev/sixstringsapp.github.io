@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-01T17:08:16.637Z",
+  "generatedAt": "2026-06-02T08:37:12.428Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-gruv/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-gruv/",
+        "en": "/en/theory/what-is-groove/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-gruv/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-02"
+    },
+    {
+      "path": "/en/theory/what-is-groove/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-gruv/",
+        "en": "/en/theory/what-is-groove/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-gruv/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-02"
+    },
     {
       "path": "/ru/theory/kak-trenirovat-intervaly-na-sluh/",
       "language": "ru",
@@ -895,6 +919,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/category/practice/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -924,17 +959,6 @@
         "en": "/en/theory/category/notes/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/category/practice/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1016,6 +1040,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+        "en": "/en/theory/tag/pulse/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1027,13 +1062,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-        "en": "/en/theory/tag/pulse/"
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1089,17 +1124,6 @@
         "en": "/en/theory/tag/scale-degrees/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1401,6 +1425,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%8B/",
+        "en": "/en/theory/tag/accents/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B0%D0%BF%D0%BF%D0%BB%D0%B8%D0%BA%D0%B0%D1%82%D1%83%D1%80%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1452,6 +1487,17 @@
         "en": "/en/theory/tag/scales/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
+        "en": "/en/theory/tag/groove/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1852,6 +1898,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/practice/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/category/practice/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/guitar-practice/",
       "language": "en",
       "alternates": {
@@ -1870,17 +1927,6 @@
         "en": "/en/theory/category/notes/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/practice/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/category/practice/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1973,6 +2019,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/pulse/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+        "en": "/en/theory/tag/pulse/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/harmony/",
       "language": "en",
       "alternates": {
@@ -1995,13 +2052,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/pulse/",
+      "path": "/en/theory/tag/tempo/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-        "en": "/en/theory/tag/pulse/"
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
+        "en": "/en/theory/tag/tempo/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2046,17 +2103,6 @@
         "en": "/en/theory/tag/scale-degrees/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/tempo/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
-        "en": "/en/theory/tag/tempo/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2358,6 +2404,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/accents/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%8B/",
+        "en": "/en/theory/tag/accents/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D1%86%D0%B5%D0%BD%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/arpeggio/",
       "language": "en",
       "alternates": {
@@ -2464,6 +2521,17 @@
         "en": "/en/theory/tag/fretting-hand/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F-%D1%80%D1%83%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/groove/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
+        "en": "/en/theory/tag/groove/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
