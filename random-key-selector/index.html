@@ -5,14 +5,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="noindex,follow" />
   <link rel="canonical" href="https://sixstringsapp.com/ru/random-key-selector/" />
-  <meta http-equiv="refresh" content="0; url=https://sixstringsapp.com/ru/random-key-selector/" />
   <title>Redirecting...</title>
   <script>
     (function () {
-      var target = "/ru/random-key-selector/" + window.location.search + window.location.hash;
-      window.location.replace(target);
+      var locale = "";
+      if (Array.isArray(navigator.languages) && navigator.languages.length > 0) {
+        locale = navigator.languages[0] || "";
+      } else {
+        locale = navigator.language || "";
+      }
+      var language = new RegExp("^(ru|uk|be)(-|_|$)", "i").test(locale) ? "ru" : "en";
+      var target = language === "ru"
+        ? "/ru/random-key-selector/"
+        : "/en/random-key-selector/";
+      window.location.replace(target + window.location.search + window.location.hash);
     })();
   </script>
+  <noscript>
+    <meta http-equiv="refresh" content="0; url=https://sixstringsapp.com/ru/random-key-selector/" />
+  </noscript>
 </head>
 <body></body>
 </html>
