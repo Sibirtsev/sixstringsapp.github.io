@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/ru</link>
 <description>Блог и теория Six Strings App на русском: ритм, аккорды, гриф, гармония и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Tue, 02 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Мажорное трезвучие: формула 1–3–5</title>
+<link>https://sixstringsapp.com/ru/theory/mazhornoe-trezvuchie/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/mazhornoe-trezvuchie/</guid>
+<pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Теория</category>
+<description>Простое объяснение мажорного трезвучия: из каких нот оно состоит, как звучит, как увидеть его на грифе и чем оно отличается от минорного.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/mazhornoe-trezvuchie/cover.png" type="image/png" />
+</item>
 <item>
 <title>Большие, малые и чистые интервалы</title>
 <link>https://sixstringsapp.com/ru/theory/bolshie-malye-i-chistye-intervaly/</link>
