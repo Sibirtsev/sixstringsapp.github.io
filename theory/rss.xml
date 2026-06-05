@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 04 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Мелодический и гармонический интервалы</title>
+<link>https://sixstringsapp.com/ru/theory/melodicheskiy-i-garmonicheskiy-interval/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/melodicheskiy-i-garmonicheskiy-interval/</guid>
+<pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение мелодических и гармонических интервалов: чем отличаются ноты, сыгранные подряд и вместе, как это услышать и зачем это нужно музыканту.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/melodicheskiy-i-garmonicheskiy-interval/cover.png" type="image/png" />
+</item>
 <item>
 <title>Мажорное трезвучие: формула 1–3–5</title>
 <link>https://sixstringsapp.com/ru/theory/mazhornoe-trezvuchie/</link>
