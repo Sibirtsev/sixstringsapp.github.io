@@ -74,6 +74,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/fretboard-trainer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-trainer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-trainer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-trainer/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/fretboard-explorer/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-explorer/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-explorer/" />
@@ -278,6 +286,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/chords/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/chords/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/chords/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/fretboard-trainer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/fretboard-trainer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/fretboard-trainer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/fretboard-trainer/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
