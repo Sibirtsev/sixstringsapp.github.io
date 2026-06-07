@@ -122,6 +122,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/scale-map/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/scale-map/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/scale-map/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/scale-map/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/string-selector/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/string-selector/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/string-selector/" />
@@ -334,6 +342,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/scale-identifier/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/scale-identifier/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/scale-identifier/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/scale-map/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/scale-map/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/scale-map/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/scale-map/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
