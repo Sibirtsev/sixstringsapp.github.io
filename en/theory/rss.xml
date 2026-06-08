@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Minor Triad: The 1–♭3–5 Formula</title>
+<link>https://sixstringsapp.com/en/theory/minor-triad/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/minor-triad/</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of the minor triad: what notes it contains, why it sounds different from a major triad, and how to see the formula on the fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/minor-triad/cover.png" type="image/png" />
+</item>
 <item>
 <title>Melodic and Harmonic Intervals</title>
 <link>https://sixstringsapp.com/en/theory/melodic-and-harmonic-intervals/</link>

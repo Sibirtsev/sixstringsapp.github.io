@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/ru</link>
 <description>Блог и теория Six Strings App на русском: ритм, аккорды, гриф, гармония и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 05 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 08 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Минорное трезвучие: формула 1–♭3–5</title>
+<link>https://sixstringsapp.com/ru/theory/minornoe-trezvuchie/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/minornoe-trezvuchie/</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Теория</category>
+<description>Простое объяснение минорного трезвучия: из каких нот оно состоит, почему звучит иначе мажорного и как увидеть его формулу на грифе.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/minornoe-trezvuchie/cover.png" type="image/png" />
+</item>
 <item>
 <title>Мелодический и гармонический интервалы</title>
 <link>https://sixstringsapp.com/ru/theory/melodicheskiy-i-garmonicheskiy-interval/</link>
