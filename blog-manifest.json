@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-06-09T09:42:47.723Z",
+  "generatedAt": "2026-06-09T13:07:45.628Z",
   "entries": [
+    {
+      "entryType": "post",
+      "path": "/ru/blog/trenazher-funktsiy-akkordov/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/trenazher-funktsiy-akkordov/",
+        "en": "/en/blog/chord-function-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/trenazher-funktsiy-akkordov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-09",
+      "title": "Тренажёр функций аккордов: как слышать роль аккорда в тональности",
+      "description": "Личная история о том, зачем появился тренажёр функций аккордов: как развивать гармонический слух, слышать роль аккорда в тональности и понимать движение прогрессий.",
+      "date": "2026-06-09",
+      "intro": "Я долго понимал гармонию глазами: видел аккорды тональности, знал римские цифры, мог построить прогрессию. Но на слух это часто оставалось набором красивых созвучий. Тренажёр функций аккордов появился как попытка закрыть этот разрыв — научиться слышать не название аккорда, а его роль в музыке.",
+      "coverImageUrl": "/blog-assets/ru/trenazher-funktsiy-akkordov/cover.png"
+    },
+    {
+      "entryType": "post",
+      "path": "/en/blog/chord-function-trainer/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/trenazher-funktsiy-akkordov/",
+        "en": "/en/blog/chord-function-trainer/"
+      },
+      "xDefaultPath": "/ru/blog/trenazher-funktsiy-akkordov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-09",
+      "title": "Chord Function Trainer: How to Hear What a Chord Does in a Key",
+      "description": "A personal story about why I built the Chord Function Trainer: to practice harmonic hearing, recognize chord functions, and understand how progressions move inside a key.",
+      "date": "2026-06-09",
+      "intro": "For a long time, I understood harmony with my eyes: I could see the chords in a key, read Roman numerals, and build progressions. But by ear, it often still felt like a set of nice-sounding chords. The Chord Function Trainer was my attempt to close that gap — to hear not just the chord name, but what the chord does in the music.",
+      "coverImageUrl": "/blog-assets/en/chord-function-trainer/cover.png"
+    },
     {
       "entryType": "post",
       "path": "/ru/blog/trenazher-intervalov-na-sluh/",
@@ -565,7 +601,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-29"
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -582,6 +618,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/blog/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -592,19 +641,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-21"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/blog/tag/harmony/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-09"
     },
     {
       "entryType": "tag",
@@ -708,7 +744,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-09"
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -721,7 +757,7 @@
       "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-29"
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -734,7 +770,7 @@
       "xDefaultPath": "/ru/blog/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-04-11"
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -761,6 +797,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-24"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/",
+        "en": "/en/blog/tag/chord-progressions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -1193,6 +1242,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+        "en": "/en/blog/tag/chord-functions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE-%D1%80%D0%B8%D1%82%D0%BC%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -1254,7 +1316,7 @@
       "xDefaultPath": "/ru/blog/tag/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6",
-      "lastmod": "2026-05-29"
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -1268,6 +1330,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/harmony/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/blog/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -1294,19 +1369,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-21"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/harmony/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/blog/tag/harmony/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-09"
     },
     {
       "entryType": "tag",
@@ -1349,6 +1411,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/cadences/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
+        "en": "/en/blog/tag/cadences/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/chord-shapes/",
       "language": "en",
       "alternates": {
@@ -1359,6 +1434,19 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-06"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/ear-training/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+        "en": "/en/blog/tag/ear-training/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
@@ -1375,6 +1463,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/en/blog/tag/key/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+        "en": "/en/blog/tag/key/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
+    },
+    {
+      "entryType": "tag",
       "path": "/en/blog/tag/scales/",
       "language": "en",
       "alternates": {
@@ -1385,45 +1486,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-21"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/cadences/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
-        "en": "/en/blog/tag/cadences/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D0%BA%D0%B0%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-09"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/ear-training/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-        "en": "/en/blog/tag/ear-training/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%81%D0%BB%D1%83%D1%85/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-29"
-    },
-    {
-      "entryType": "tag",
-      "path": "/en/blog/tag/key/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/blog/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-        "en": "/en/blog/tag/key/"
-      },
-      "xDefaultPath": "/ru/blog/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-11"
     },
     {
       "entryType": "tag",
@@ -1515,6 +1577,32 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-12"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/chord-functions/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+        "en": "/en/blog/tag/chord-functions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
+    },
+    {
+      "entryType": "tag",
+      "path": "/en/blog/tag/chord-progressions/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/",
+        "en": "/en/blog/tag/chord-progressions/"
+      },
+      "xDefaultPath": "/ru/blog/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-06-09"
     },
     {
       "entryType": "tag",
