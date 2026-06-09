@@ -1,1 +1,0 @@
-import{j as i,V as l,W as t}from"./index-DljRMepd.js";const m=({children:a,className:s="",padding:r="md",shadow:o="md",hover:d=!1})=>{const e=["ui-card",l[r],t[o],d?"is-hoverable":"",s].filter(Boolean).join(" ");return i.jsx("div",{className:e,children:a})};export{m as C};
