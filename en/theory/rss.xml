@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 09 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Musical Motif?</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-musical-motif/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-musical-motif/</guid>
+<pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+<description>A simple explanation of a musical motif: how it differs from a phrase, how it works in melodies and riffs, how to develop a motif, and how to use it in a song.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-musical-motif/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is Musical Ear?</title>
 <link>https://sixstringsapp.com/en/theory/what-is-musical-ear/</link>
