@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-11T12:20:27.724Z",
+  "generatedAt": "2026-06-12T10:02:52.156Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-muzykalnaya-fraza/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-muzykalnaya-fraza/",
+        "en": "/en/theory/what-is-a-musical-phrase/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-muzykalnaya-fraza/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-12"
+    },
+    {
+      "path": "/en/theory/what-is-a-musical-phrase/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-muzykalnaya-fraza/",
+        "en": "/en/theory/what-is-a-musical-phrase/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-muzykalnaya-fraza/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-12"
+    },
     {
       "path": "/ru/theory/chto-takoe-sinkopa/",
       "language": "ru",
@@ -1131,17 +1155,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-        "en": "/en/theory/category/notes/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/ru/theory/category/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1160,6 +1173,17 @@
         "en": "/en/theory/category/melody/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
+        "en": "/en/theory/category/notes/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BD%D0%BE%D1%82%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1527,6 +1551,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/composition/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BC%D0%B0%D0%B6%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -1538,6 +1573,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/melody/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
       "language": "ru",
       "alternates": {
@@ -1545,6 +1591,17 @@
         "en": "/en/theory/tag/minor-chord/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
+        "en": "/en/theory/tag/motif/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1791,17 +1848,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/composition/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BB%D0%B0%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1868,17 +1914,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/melody/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80/",
       "language": "ru",
       "alternates": {
@@ -1908,17 +1943,6 @@
         "en": "/en/theory/tag/minor-triad/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D0%BE%D0%B5-%D1%82%D1%80%D0%B5%D0%B7%D0%B2%D1%83%D1%87%D0%B8%D0%B5/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
-        "en": "/en/theory/tag/motif/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2121,6 +2145,28 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
+        "en": "/en/theory/tag/phrase/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/phrasing/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/level/listener/",
       "language": "ru",
       "alternates": {
@@ -2275,6 +2321,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/composition/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/category/composition/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/guitar-practice/",
       "language": "en",
       "alternates": {
@@ -2282,6 +2339,17 @@
         "en": "/en/theory/category/guitar-practice/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/en/theory/category/melody/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+        "en": "/en/theory/category/melody/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2304,28 +2372,6 @@
         "en": "/en/theory/category/sound/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B7%D0%B2%D1%83%D0%BA/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/composition/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-        "en": "/en/theory/category/composition/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/melody/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-        "en": "/en/theory/category/melody/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2649,6 +2695,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/composition/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/composition/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/duration/",
       "language": "en",
       "alternates": {
@@ -2715,6 +2772,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/melody/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/melody/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/minor-chord/",
       "language": "en",
       "alternates": {
@@ -2722,6 +2790,17 @@
         "en": "/en/theory/tag/minor-chord/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/motif/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
+        "en": "/en/theory/tag/motif/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2880,17 +2959,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/composition/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/composition/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/distance-between-notes/",
       "language": "en",
       "alternates": {
@@ -3023,17 +3091,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/melody/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/melody/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D0%BB%D0%BE%D0%B4%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/memorization/",
       "language": "en",
       "alternates": {
@@ -3089,17 +3146,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/motif/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
-        "en": "/en/theory/tag/motif/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%BE%D1%82%D0%B8%D0%B2/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/musical-ear/",
       "language": "en",
       "alternates": {
@@ -3129,6 +3175,28 @@
         "en": "/en/theory/tag/note-names/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/phrase/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
+        "en": "/en/theory/tag/phrase/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/phrasing/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/phrasing/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
