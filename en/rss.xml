@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/en</link>
 <description>Six Strings App blog and theory in English: rhythm, chords, fretboard, harmony, and practice.</description>
 <language>en-US</language>
-<lastBuildDate>Sat, 13 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 14 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Seventh Chord?</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-seventh-chord/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-seventh-chord/</guid>
+<pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Theory</category>
+<description>A simple explanation of seventh chords: how they are built from a triad plus a seventh, why they matter in harmony, and how to hear their tension.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-seventh-chord/cover.png" type="image/png" />
+</item>
 <item>
 <title>Diminished and Augmented Triads</title>
 <link>https://sixstringsapp.com/en/theory/diminished-and-augmented-triads/</link>
