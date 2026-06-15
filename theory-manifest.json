@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-14T09:53:46.791Z",
+  "generatedAt": "2026-06-15T08:53:35.485Z",
   "entries": [
+    {
+      "path": "/ru/theory/osnovnye-vidy-septakkordov/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/osnovnye-vidy-septakkordov/",
+        "en": "/en/theory/main-types-of-seventh-chords/"
+      },
+      "xDefaultPath": "/ru/theory/osnovnye-vidy-septakkordov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-15"
+    },
+    {
+      "path": "/en/theory/main-types-of-seventh-chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/osnovnye-vidy-septakkordov/",
+        "en": "/en/theory/main-types-of-seventh-chords/"
+      },
+      "xDefaultPath": "/ru/theory/osnovnye-vidy-septakkordov/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-15"
+    },
     {
       "path": "/ru/theory/chto-takoe-septakkord/",
       "language": "ru",
@@ -1104,17 +1128,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/category/intervals/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1122,6 +1135,17 @@
         "en": "/en/theory/category/chords/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/category/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1302,17 +1326,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
-        "en": "/en/theory/tag/metronome/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1320,6 +1333,17 @@
         "en": "/en/theory/tag/harmony/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/theory/tag/metronome/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2127,6 +2151,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/seventh-chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B8%D0%BC%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -2248,6 +2283,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+        "en": "/en/theory/tag/chord-formulas/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%84%D1%80%D0%B0%D0%B7%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -2347,17 +2393,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/en/theory/category/intervals/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/category/intervals/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/en/theory/category/chords/",
       "language": "en",
       "alternates": {
@@ -2365,6 +2400,17 @@
         "en": "/en/theory/category/chords/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/en/theory/category/intervals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/category/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2545,17 +2591,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/metronome/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
-        "en": "/en/theory/tag/metronome/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/harmony/",
       "language": "en",
       "alternates": {
@@ -2563,6 +2598,17 @@
         "en": "/en/theory/tag/harmony/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/metronome/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+        "en": "/en/theory/tag/metronome/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3084,6 +3130,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/chord-formulas/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+        "en": "/en/theory/tag/chord-formulas/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D1%8B-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/diminished-triad/",
       "language": "en",
       "alternates": {
@@ -3399,6 +3456,17 @@
         "en": "/en/theory/tag/seventh-chord/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/seventh-chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/seventh-chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },

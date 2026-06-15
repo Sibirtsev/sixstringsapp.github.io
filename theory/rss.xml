@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Sun, 14 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 15 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Основные виды септаккордов</title>
+<link>https://sixstringsapp.com/ru/theory/osnovnye-vidy-septakkordov/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/osnovnye-vidy-septakkordov/</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
+<description>Справочник по основным септаккордам: maj7, 7, m7, m7♭5 и dim7, их формулы, звучание и роль в гармонии.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/osnovnye-vidy-septakkordov/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое септаккорд</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-septakkord/</link>
