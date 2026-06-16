@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-15T08:53:35.485Z",
+  "generatedAt": "2026-06-16T07:25:49.468Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
+        "en": "/en/theory/what-is-a-chord-inversion/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-16"
+    },
+    {
+      "path": "/en/theory/what-is-a-chord-inversion/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
+        "en": "/en/theory/what-is-a-chord-inversion/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-16"
+    },
     {
       "path": "/ru/theory/osnovnye-vidy-septakkordov/",
       "language": "ru",
@@ -1293,6 +1317,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1311,17 +1346,6 @@
         "en": "/en/theory/tag/rhythm/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B8%D1%82%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
-        "en": "/en/theory/tag/chords/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1854,6 +1878,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+        "en": "/en/theory/tag/bass/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -1894,6 +1929,17 @@
         "en": "/en/theory/tag/harmonic-interval/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/voice-leading/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2059,6 +2105,17 @@
         "en": "/en/theory/tag/note-names/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%82/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/inversions/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2558,6 +2615,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/intervals/",
       "language": "en",
       "alternates": {
@@ -2576,17 +2644,6 @@
         "en": "/en/theory/tag/rhythm/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%80%D0%B8%D1%82%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/chords/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
-        "en": "/en/theory/tag/chords/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3108,6 +3165,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/bass/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+        "en": "/en/theory/tag/bass/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/beat/",
       "language": "en",
       "alternates": {
@@ -3236,6 +3304,17 @@
         "en": "/en/theory/tag/intonation/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/inversions/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/inversions/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3533,6 +3612,17 @@
         "en": "/en/theory/tag/unison/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%80%D0%B8%D0%BC%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/voice-leading/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/voice-leading/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
