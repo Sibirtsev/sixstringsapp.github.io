@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-16T07:25:49.468Z",
+  "generatedAt": "2026-06-17T09:06:49.994Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-slash-chord/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-slash-chord/",
+        "en": "/en/theory/what-is-a-slash-chord/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-slash-chord/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-17"
+    },
+    {
+      "path": "/en/theory/what-is-a-slash-chord/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-slash-chord/",
+        "en": "/en/theory/what-is-a-slash-chord/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-slash-chord/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-17"
+    },
     {
       "path": "/ru/theory/chto-takoe-obrashchenie-akkorda/",
       "language": "ru",
@@ -1141,17 +1165,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-        "en": "/en/theory/category/rhythm/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1163,13 +1176,13 @@
       "priority": "0.65"
     },
     {
-      "path": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "path": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/category/intervals/"
+        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/theory/category/rhythm/"
       },
-      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1181,6 +1194,17 @@
         "en": "/en/theory/category/harmony/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/category/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1592,6 +1616,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+        "en": "/en/theory/tag/bass/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D1%80%D1%83%D0%B2/",
       "language": "ru",
       "alternates": {
@@ -1746,6 +1781,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/inversions/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BE%D0%BA%D1%82%D0%B0%D0%B2%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -1874,17 +1920,6 @@
         "en": "/en/theory/tag/arpeggio/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
-        "en": "/en/theory/tag/bass/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2109,17 +2144,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/inversions/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -2259,6 +2283,17 @@
         "en": "/en/theory/tag/weak-beat/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D0%B0%D0%B1%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%81%D0%BB%D1%8D%D1%88-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BB%D1%8D%D1%88-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/slash-chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D1%8D%D1%88-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2439,17 +2474,6 @@
       "priority": "0.65"
     },
     {
-      "path": "/en/theory/category/rhythm/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-        "en": "/en/theory/category/rhythm/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/en/theory/category/chords/",
       "language": "en",
       "alternates": {
@@ -2461,13 +2485,13 @@
       "priority": "0.65"
     },
     {
-      "path": "/en/theory/category/intervals/",
+      "path": "/en/theory/category/rhythm/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
-        "en": "/en/theory/category/intervals/"
+        "ru": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
+        "en": "/en/theory/category/rhythm/"
       },
-      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+      "xDefaultPath": "/ru/theory/category/%D1%80%D0%B8%D1%82%D0%BC/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2479,6 +2503,17 @@
         "en": "/en/theory/category/harmony/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/en/theory/category/intervals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
+        "en": "/en/theory/category/intervals/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2890,6 +2925,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/bass/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+        "en": "/en/theory/tag/bass/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/bpm/",
       "language": "en",
       "alternates": {
@@ -2963,6 +3009,17 @@
         "en": "/en/theory/tag/interval/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/inversions/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/inversions/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3165,17 +3222,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/bass/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
-        "en": "/en/theory/tag/bass/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B1%D0%B0%D1%81/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/beat/",
       "language": "en",
       "alternates": {
@@ -3304,17 +3350,6 @@
         "en": "/en/theory/tag/intonation/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%BE%D0%BD%D0%B0%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/inversions/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/inversions/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BE%D0%B1%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3546,6 +3581,17 @@
         "en": "/en/theory/tag/seventh-chords/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B5%D0%BF%D1%82%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/slash-chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BB%D1%8D%D1%88-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
+        "en": "/en/theory/tag/slash-chords/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D1%8D%D1%88-%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
