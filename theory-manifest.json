@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-17T09:06:49.994Z",
+  "generatedAt": "2026-06-18T08:43:36.201Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-sus2-i-sus4/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-sus2-i-sus4/",
+        "en": "/en/theory/what-are-sus2-and-sus4-chords/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-sus2-i-sus4/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-18"
+    },
+    {
+      "path": "/en/theory/what-are-sus2-and-sus4-chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-sus2-i-sus4/",
+        "en": "/en/theory/what-are-sus2-and-sus4-chords/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-sus2-i-sus4/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-18"
+    },
     {
       "path": "/ru/theory/chto-takoe-slash-chord/",
       "language": "ru",
@@ -1352,6 +1376,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1374,17 +1409,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/harmony/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
       "language": "ru",
       "alternates": {
@@ -1396,17 +1420,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-        "en": "/en/theory/tag/pulse/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1414,6 +1427,17 @@
         "en": "/en/theory/tag/third/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
+        "en": "/en/theory/tag/pulse/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2408,6 +2432,28 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/sus2/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/sus2/",
+        "en": "/en/theory/tag/sus2/"
+      },
+      "xDefaultPath": "/ru/theory/tag/sus2/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/sus4/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/sus4/",
+        "en": "/en/theory/tag/sus4/"
+      },
+      "xDefaultPath": "/ru/theory/tag/sus4/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/level/listener/",
       "language": "ru",
       "alternates": {
@@ -2661,6 +2707,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/harmony/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/harmony/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/intervals/",
       "language": "en",
       "alternates": {
@@ -2683,17 +2740,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/harmony/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/harmony/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/metronome/",
       "language": "en",
       "alternates": {
@@ -2701,6 +2747,17 @@
         "en": "/en/theory/tag/metronome/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/third/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
+        "en": "/en/theory/tag/third/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2723,17 +2780,6 @@
         "en": "/en/theory/tag/pulse/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%83%D0%BB%D1%8C%D1%81/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/third/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
-        "en": "/en/theory/tag/third/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%80%D1%86%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3625,6 +3671,28 @@
         "en": "/en/theory/tag/strong-beat/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%81%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%B4%D0%BE%D0%BB%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/sus2/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/sus2/",
+        "en": "/en/theory/tag/sus2/"
+      },
+      "xDefaultPath": "/ru/theory/tag/sus2/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/sus4/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/sus4/",
+        "en": "/en/theory/tag/sus4/"
+      },
+      "xDefaultPath": "/ru/theory/tag/sus4/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
