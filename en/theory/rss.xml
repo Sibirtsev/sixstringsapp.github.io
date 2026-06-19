@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>What Is a Pentatonic Scale?</title>
+<link>https://sixstringsapp.com/en/theory/what-is-a-pentatonic-scale/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/what-is-a-pentatonic-scale/</guid>
+<pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+<description>A clear explanation of the pentatonic scale: the formulas for major and minor pentatonic scales, how they are related, how to use them in improvisation, and how to find them on the fretboard.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/what-is-a-pentatonic-scale/cover.png" type="image/png" />
+</item>
 <item>
 <title>Added-Tone Chords</title>
 <link>https://sixstringsapp.com/en/theory/added-tone-chords/</link>

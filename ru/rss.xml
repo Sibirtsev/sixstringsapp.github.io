@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/ru</link>
 <description>Блог и теория Six Strings App на русском: ритм, аккорды, гриф, гармония и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Что такое пентатоника</title>
+<link>https://sixstringsapp.com/ru/theory/chto-takoe-pentatonika/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/chto-takoe-pentatonika/</guid>
+<pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Теория</category>
+<description>Простое объяснение пентатоники: формулы мажорной и минорной пентатоники, их связь, применение в импровизации и расположение нот на грифе.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/chto-takoe-pentatonika/cover.png" type="image/png" />
+</item>
 <item>
 <title>Добавленные ступени в аккордах</title>
 <link>https://sixstringsapp.com/ru/theory/dobavlennye-stupeni-v-akkordah/</link>
