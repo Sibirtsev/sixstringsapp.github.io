@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 18 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 19 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Добавленные ступени в аккордах</title>
+<link>https://sixstringsapp.com/ru/theory/dobavlennye-stupeni-v-akkordah/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/dobavlennye-stupeni-v-akkordah/</guid>
+<pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+<description>Простое объяснение аккордов с добавленными ступенями: что значит add2, add4, add6 и add9, чем они отличаются от sus и септаккордов и как использовать их в музыке.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/dobavlennye-stupeni-v-akkordah/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое sus2 и sus4</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-sus2-i-sus4/</link>
