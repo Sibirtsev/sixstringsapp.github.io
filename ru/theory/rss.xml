@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Sat, 20 Jun 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 22 Jun 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Мажорная и минорная пентатоника</title>
+<link>https://sixstringsapp.com/ru/theory/mazhornaya-i-minornaya-pentatonika/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/mazhornaya-i-minornaya-pentatonika/</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
+<description>Чем отличаются мажорная и минорная пентатоники: формулы, характерные ступени, одноимённые и параллельные гаммы, выбор под аккорд и применение на гитаре.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/mazhornaya-i-minornaya-pentatonika/cover.png" type="image/png" />
+</item>
 <item>
 <title>Что такое пентатоника</title>
 <link>https://sixstringsapp.com/ru/theory/chto-takoe-pentatonika/</link>
