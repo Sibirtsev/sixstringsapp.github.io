@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-06-22T08:01:29.503Z",
+  "generatedAt": "2026-06-23T07:43:23.882Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-tonika/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-tonika/",
+        "en": "/en/theory/what-is-the-tonic/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-tonika/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-23"
+    },
+    {
+      "path": "/en/theory/what-is-the-tonic/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-tonika/",
+        "en": "/en/theory/what-is-the-tonic/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-tonika/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-06-23"
+    },
     {
       "path": "/ru/theory/mazhornaya-i-minornaya-pentatonika/",
       "language": "ru",
@@ -1426,6 +1450,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+        "en": "/en/theory/category/keys/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D1%80%D0%B8%D1%84/",
       "language": "ru",
       "alternates": {
@@ -1448,17 +1483,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-        "en": "/en/theory/tag/guitar/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1466,6 +1490,17 @@
         "en": "/en/theory/tag/harmony/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
+        "en": "/en/theory/tag/guitar/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1525,6 +1560,28 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+        "en": "/en/theory/tag/key/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
+        "en": "/en/theory/tag/scale-degrees/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BC%D0%BF/",
       "language": "ru",
       "alternates": {
@@ -1536,13 +1593,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "path": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
       "language": "ru",
       "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-        "en": "/en/theory/tag/key/"
+        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
+        "en": "/en/theory/tag/ear-training/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1580,17 +1637,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-        "en": "/en/theory/tag/scale-degrees/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -1598,17 +1644,6 @@
         "en": "/en/theory/tag/music-theory/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
-        "en": "/en/theory/tag/ear-training/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0-%D1%81%D0%BB%D1%83%D1%85%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1719,6 +1754,17 @@
         "en": "/en/theory/tag/tone/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/tonic/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -1961,17 +2007,6 @@
         "en": "/en/theory/tag/technique/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/tag/tonic/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2834,6 +2869,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/keys/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+        "en": "/en/theory/category/keys/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/music-theory/",
       "language": "en",
       "alternates": {
@@ -2922,6 +2968,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/ear-training/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/",
+        "en": "/en/theory/tag/ear-training/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/third/",
       "language": "en",
       "alternates": {
@@ -2933,13 +2990,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/ear-training/",
+      "path": "/en/theory/tag/key/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/",
-        "en": "/en/theory/tag/ear-training/"
+        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+        "en": "/en/theory/tag/key/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BB%D1%83%D1%85/",
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2955,13 +3012,13 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/key/",
+      "path": "/en/theory/tag/scale-degrees/",
       "language": "en",
       "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
-        "en": "/en/theory/tag/key/"
+        "ru": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
+        "en": "/en/theory/tag/scale-degrees/"
       },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C/",
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3017,17 +3074,6 @@
         "en": "/en/theory/tag/scale/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/scale-degrees/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
-        "en": "/en/theory/tag/scale-degrees/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%81%D1%82%D1%83%D0%BF%D0%B5%D0%BD%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3138,6 +3184,17 @@
         "en": "/en/theory/tag/tone/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/tonic/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
+        "en": "/en/theory/tag/tonic/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3402,17 +3459,6 @@
         "en": "/en/theory/tag/technique/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/tonic/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
-        "en": "/en/theory/tag/tonic/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
