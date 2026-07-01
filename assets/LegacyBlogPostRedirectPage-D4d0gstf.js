@@ -1,1 +1,0 @@
-import{l as c,c as l,j as e,N as s,w as r,D as o,m as n}from"./index-DBSpS8ca.js";const i=()=>{const{search:u}=c(),{slug:t}=l();if(!t)return e.jsx(s,{to:r("/blog",o),replace:!0});const a=n(t);return a?e.jsx(s,{to:`${a}${u}`,replace:!0}):e.jsx(s,{to:r("/404",o),replace:!0})};export{i as default};
