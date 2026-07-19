@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-07-17T09:37:07.947Z",
+  "generatedAt": "2026-07-19T17:08:25.081Z",
   "entries": [
+    {
+      "path": "/ru/theory/akkordy-minornoy-tonalnosti/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/akkordy-minornoy-tonalnosti/",
+        "en": "/en/theory/minor-key-chords/"
+      },
+      "xDefaultPath": "/ru/theory/akkordy-minornoy-tonalnosti/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-07-20"
+    },
+    {
+      "path": "/en/theory/minor-key-chords/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/akkordy-minornoy-tonalnosti/",
+        "en": "/en/theory/minor-key-chords/"
+      },
+      "xDefaultPath": "/ru/theory/akkordy-minornoy-tonalnosti/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-07-20"
+    },
     {
       "path": "/ru/theory/akkordy-mazhornoy-tonalnosti/",
       "language": "ru",
@@ -1733,6 +1757,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+        "en": "/en/theory/tag/minor/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -1795,17 +1830,6 @@
         "en": "/en/theory/tag/fifth/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%B0/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
-        "en": "/en/theory/tag/minor/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2239,6 +2263,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+        "en": "/en/theory/tag/harmonic-minor/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5/",
       "language": "ru",
       "alternates": {
@@ -2257,6 +2292,17 @@
         "en": "/en/theory/tag/diatonic-harmony/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%B8%D0%B0%D1%82%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%B0/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%B0/",
+        "en": "/en/theory/tag/dominant/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%B0/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3240,6 +3286,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/minor/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+        "en": "/en/theory/tag/minor/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/music-theory/",
       "language": "en",
       "alternates": {
@@ -3313,17 +3370,6 @@
         "en": "/en/theory/tag/measure/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BB%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/en/theory/tag/minor/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
-        "en": "/en/theory/tag/minor/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3823,6 +3869,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/dominant/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%B0/",
+        "en": "/en/theory/tag/dominant/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/exercises/",
       "language": "en",
       "alternates": {
@@ -3874,6 +3931,17 @@
         "en": "/en/theory/tag/harmonic-interval/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/harmonic-minor/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
+        "en": "/en/theory/tag/harmonic-minor/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80/",
       "changefreq": "weekly",
       "priority": "0.6"
     },

@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 17 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Аккорды минорной тональности</title>
+<link>https://sixstringsapp.com/ru/theory/akkordy-minornoy-tonalnosti/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/akkordy-minornoy-tonalnosti/</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+<description>Какие аккорды входят в натуральный минор, зачем в миноре повышают седьмую ступень и почему V или V7 часто ведут к тонике сильнее, чем v.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/akkordy-minornoy-tonalnosti/cover.png" type="image/png" />
+</item>
 <item>
 <title>Аккорды мажорной тональности</title>
 <link>https://sixstringsapp.com/ru/theory/akkordy-mazhornoy-tonalnosti/</link>
