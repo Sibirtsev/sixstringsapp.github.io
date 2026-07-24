@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 21 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Tonic, Subdominant, and Dominant</title>
+<link>https://sixstringsapp.com/en/theory/tonic-subdominant-and-dominant/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/tonic-subdominant-and-dominant/</guid>
+<pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
+<description>Learn how the three main harmonic functions work: tonic, subdominant, and dominant. Formulas and examples in major and minor keys.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/tonic-subdominant-and-dominant/cover.png" type="image/png" />
+</item>
 <item>
 <title>What Is Chord Function?</title>
 <link>https://sixstringsapp.com/en/theory/what-is-chord-function/</link>
