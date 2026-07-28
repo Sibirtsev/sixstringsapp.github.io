@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Mon, 27 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>How to Build Chord Progressions</title>
+<link>https://sixstringsapp.com/en/theory/how-to-build-chord-progressions/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/how-to-build-chord-progressions/</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+<description>A step-by-step method for building chord progressions by choosing a key, harmonic functions, harmonic rhythm, cadences, and smooth voice leading.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/how-to-build-chord-progressions/cover.png" type="image/png" />
+</item>
 <item>
 <title>Main Types of Cadences</title>
 <link>https://sixstringsapp.com/en/theory/main-types-of-cadences/</link>
