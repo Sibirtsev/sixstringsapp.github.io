@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/en/theory</link>
 <description>Music theory for guitarists: intervals, modes, harmony, rhythm, and practical application.</description>
 <language>en-US</language>
-<lastBuildDate>Tue, 28 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Common Chord Progressions</title>
+<link>https://sixstringsapp.com/en/theory/common-chord-progressions/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/common-chord-progressions/</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
+<description>Explore common chord progressions, their scale degrees, harmonic functions, character, and ways to adapt them for songwriting and arranging.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/common-chord-progressions/cover.png" type="image/png" />
+</item>
 <item>
 <title>How to Build Chord Progressions</title>
 <link>https://sixstringsapp.com/en/theory/how-to-build-chord-progressions/</link>
