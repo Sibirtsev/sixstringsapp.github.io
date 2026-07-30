@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/en</link>
 <description>Six Strings App blog and theory in English: rhythm, chords, fretboard, harmony, and practice.</description>
 <language>en-US</language>
-<lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Parallel Keys: Major and Minor with the Same Tonic</title>
+<link>https://sixstringsapp.com/en/theory/parallel-keys/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/parallel-keys/</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Theory</category>
+<description>What parallel keys are, how C major differs from C minor, and which scale degrees change when moving between major and minor.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/parallel-keys/cover.png" type="image/png" />
+</item>
 <item>
 <title>Common Chord Progressions</title>
 <link>https://sixstringsapp.com/en/theory/common-chord-progressions/</link>

@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Wed, 29 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Одноимённые тональности: мажор и минор с общей тоникой</title>
+<link>https://sixstringsapp.com/ru/theory/odnoimennye-tonalnosti/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/odnoimennye-tonalnosti/</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+<description>Что такое одноимённые тональности, чем До мажор отличается от до минора и какие ступени меняются при переходе между мажором и минором.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/odnoimennye-tonalnosti/cover.png" type="image/png" />
+</item>
 <item>
 <title>Популярные аккордовые последовательности</title>
 <link>https://sixstringsapp.com/ru/theory/populyarnye-akkordovye-posledovatelnosti/</link>
