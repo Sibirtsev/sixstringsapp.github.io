@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Thu, 30 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Параллельные тональности: одинаковые ноты, разные тональные центры</title>
+<link>https://sixstringsapp.com/ru/theory/parallelnye-tonalnosti/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/parallelnye-tonalnosti/</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+<description>Что такое параллельные тональности, как связаны До мажор и Ля минор и почему одинаковый набор нот может звучать как две разные тональности.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/parallelnye-tonalnosti/cover.png" type="image/png" />
+</item>
 <item>
 <title>Одноимённые тональности: мажор и минор с общей тоникой</title>
 <link>https://sixstringsapp.com/ru/theory/odnoimennye-tonalnosti/</link>

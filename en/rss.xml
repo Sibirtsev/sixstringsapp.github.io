@@ -5,8 +5,18 @@
 <link>https://sixstringsapp.com/en</link>
 <description>Six Strings App blog and theory in English: rhythm, chords, fretboard, harmony, and practice.</description>
 <language>en-US</language>
-<lastBuildDate>Thu, 30 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Relative Keys: The Same Notes, Different Tonal Centers</title>
+<link>https://sixstringsapp.com/en/theory/relative-keys/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/relative-keys/</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Theory</category>
+<description>What relative keys are, how C major and A minor are connected, and why the same notes can sound like two different keys.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/relative-keys/cover.png" type="image/png" />
+</item>
 <item>
 <title>Parallel Keys: Major and Minor with the Same Tonic</title>
 <link>https://sixstringsapp.com/en/theory/parallel-keys/</link>
