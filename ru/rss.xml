@@ -5,8 +5,28 @@
 <link>https://sixstringsapp.com/ru</link>
 <description>Блог и теория Six Strings App на русском: ритм, аккорды, гриф, гармония и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Случайная тональность: как практиковаться во всех тональностях</title>
+<link>https://sixstringsapp.com/ru/blog/sluchaynaya-tonalnost-dlya-praktiki/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/blog/sluchaynaya-tonalnost-dlya-praktiki/</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<category>blog</category>
+<category>Блог</category>
+<description>Обзор инструмента «Случайная тональность» на сайте «Шесть струн»: как выбирать материал для занятия, выходить за пределы привычных тональностей и переходить к гаммам, аккордам и грифу.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/ru/sluchaynaya-tonalnost-dlya-praktiki/cover.png" type="image/png" />
+</item>
+<item>
+<title>Золотая секвенция: круг аккордов в мажоре и миноре</title>
+<link>https://sixstringsapp.com/ru/theory/zolotaya-sekventsiya/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/zolotaya-sekventsiya/</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Теория</category>
+<description>Как устроена золотая секвенция, почему аккорды движутся по квинтам, чем отличаются мажорный и минорный варианты и в каких песнях слышен этот оборот.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/zolotaya-sekventsiya/cover.png" type="image/png" />
+</item>
 <item>
 <title>Параллельные тональности: одинаковые ноты, разные тональные центры</title>
 <link>https://sixstringsapp.com/ru/theory/parallelnye-tonalnosti/</link>

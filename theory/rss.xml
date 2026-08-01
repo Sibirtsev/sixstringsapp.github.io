@@ -5,8 +5,16 @@
 <link>https://sixstringsapp.com/ru/theory</link>
 <description>Музыкальная теория для гитаристов: интервалы, лады, гармония, ритм и практика.</description>
 <language>ru-RU</language>
-<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/ru/theory/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Золотая секвенция: круг аккордов в мажоре и миноре</title>
+<link>https://sixstringsapp.com/ru/theory/zolotaya-sekventsiya/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/ru/theory/zolotaya-sekventsiya/</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<description>Как устроена золотая секвенция, почему аккорды движутся по квинтам, чем отличаются мажорный и минорный варианты и в каких песнях слышен этот оборот.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/ru/zolotaya-sekventsiya/cover.png" type="image/png" />
+</item>
 <item>
 <title>Параллельные тональности: одинаковые ноты, разные тональные центры</title>
 <link>https://sixstringsapp.com/ru/theory/parallelnye-tonalnosti/</link>

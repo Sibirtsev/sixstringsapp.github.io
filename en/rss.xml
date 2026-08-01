@@ -5,8 +5,28 @@
 <link>https://sixstringsapp.com/en</link>
 <description>Six Strings App blog and theory in English: rhythm, chords, fretboard, harmony, and practice.</description>
 <language>en-US</language>
-<lastBuildDate>Fri, 31 Jul 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Aug 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://sixstringsapp.com/en/rss.xml" rel="self" type="application/rss+xml" />
+<item>
+<title>Random Key Practice: How to Get Comfortable in Every Key</title>
+<link>https://sixstringsapp.com/en/blog/random-key-for-music-practice/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/blog/random-key-for-music-practice/</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<category>blog</category>
+<category>Blog</category>
+<description>An overview of the Random Key tool in Six Strings App: choose material for your practice session, move beyond familiar keys, and explore scales, chords, and the fretboard.</description>
+<enclosure url="https://sixstringsapp.com/blog-assets/en/random-key-for-music-practice/cover.png" type="image/png" />
+</item>
+<item>
+<title>Circle Progression: Chord Cycles in Major and Minor</title>
+<link>https://sixstringsapp.com/en/theory/circle-progression/</link>
+<guid isPermaLink="true">https://sixstringsapp.com/en/theory/circle-progression/</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
+<category>theory</category>
+<category>Theory</category>
+<description>How the circle progression works, why chord roots move by fifths, how its major and minor forms differ, and which songs use this pattern.</description>
+<enclosure url="https://sixstringsapp.com/theory-assets/en/circle-progression/cover.png" type="image/png" />
+</item>
 <item>
 <title>Relative Keys: The Same Notes, Different Tonal Centers</title>
 <link>https://sixstringsapp.com/en/theory/relative-keys/</link>
