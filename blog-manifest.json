@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T09:35:37.315Z",
+  "generatedAt": "2026-08-10T14:01:12.129Z",
   "entries": [
     {
       "entryType": "post",
@@ -693,6 +693,19 @@
     },
     {
       "entryType": "tag",
+      "path": "/ru/blog/tag/songwriting/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/songwriting/",
+        "en": "/en/blog/tag/songwriting/"
+      },
+      "xDefaultPath": "/ru/blog/tag/songwriting/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-05-09"
+    },
+    {
+      "entryType": "tag",
       "path": "/ru/blog/tag/%D0%B3%D0%B0%D0%BC%D0%BC%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -729,19 +742,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-19"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/songwriting/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/songwriting/",
-        "en": "/en/blog/tag/songwriting/"
-      },
-      "xDefaultPath": "/ru/blog/tag/songwriting/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-05-09"
     },
     {
       "entryType": "tag",
@@ -820,6 +820,32 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-05-21"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/benny-greb/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/benny-greb/",
+        "en": "/en/blog/tag/benny-greb/"
+      },
+      "xDefaultPath": "/ru/blog/tag/benny-greb/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-08"
+    },
+    {
+      "entryType": "tag",
+      "path": "/ru/blog/tag/caged/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/blog/tag/caged/",
+        "en": "/en/blog/tag/caged/"
+      },
+      "xDefaultPath": "/ru/blog/tag/caged/",
+      "changefreq": "weekly",
+      "priority": "0.6",
+      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
@@ -1314,32 +1340,6 @@
       "changefreq": "weekly",
       "priority": "0.6",
       "lastmod": "2026-04-08"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/benny-greb/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/benny-greb/",
-        "en": "/en/blog/tag/benny-greb/"
-      },
-      "xDefaultPath": "/ru/blog/tag/benny-greb/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-08"
-    },
-    {
-      "entryType": "tag",
-      "path": "/ru/blog/tag/caged/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/blog/tag/caged/",
-        "en": "/en/blog/tag/caged/"
-      },
-      "xDefaultPath": "/ru/blog/tag/caged/",
-      "changefreq": "weekly",
-      "priority": "0.6",
-      "lastmod": "2026-04-12"
     },
     {
       "entryType": "tag",
