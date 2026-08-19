@@ -17,7 +17,7 @@
       var language = new RegExp("^(ru|uk|be)(-|_|$)", "i").test(locale) ? "ru" : "en";
       var target = language === "ru"
         ? "/ru/songwriting/random-phrase/"
-        : "/ru/songwriting/random-phrase/";
+        : "/en/songwriting/random-phrase/";
       window.location.replace(target + window.location.search + window.location.hash);
     })();
   </script>

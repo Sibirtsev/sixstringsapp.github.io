@@ -28,6 +28,7 @@
   <url>
     <loc>https://sixstringsapp.com/ru/songwriting/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/" />
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -35,6 +36,7 @@
   <url>
     <loc>https://sixstringsapp.com/ru/songwriting/random-word/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/random-word/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/random-word/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/random-word/" />
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -42,6 +44,7 @@
   <url>
     <loc>https://sixstringsapp.com/ru/songwriting/random-phrase/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/random-phrase/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -283,6 +286,30 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/theory/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/theory/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/theory/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/songwriting/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/songwriting/random-word/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/random-word/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/random-word/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/random-word/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/songwriting/random-phrase/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/random-phrase/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
