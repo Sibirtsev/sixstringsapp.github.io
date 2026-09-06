@@ -1,0 +1,1 @@
+import{j as e}from"./index-CwXIkVSJ.js";const i=({size:o=24,strokeWidth:n=2,color:r="#ffffff",...t})=>e.jsx("svg",{width:o,height:o,fill:"none",stroke:r,viewBox:"0 0 24 24",...t,children:e.jsx("path",{strokeLinecap:"round",strokeLinejoin:"round",strokeWidth:n,d:"M6 18L18 6M6 6l12 12"})});export{i as C};
