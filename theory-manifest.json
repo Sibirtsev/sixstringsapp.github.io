@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-06T09:31:52.952Z",
+  "generatedAt": "2026-09-17T05:50:06.673Z",
   "entries": [
+    {
+      "path": "/ru/theory/kak-vybrat-tonalnost-pesni/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/kak-vybrat-tonalnost-pesni/",
+        "en": "/en/theory/how-to-choose-a-song-key/"
+      },
+      "xDefaultPath": "/ru/theory/kak-vybrat-tonalnost-pesni/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-09-17"
+    },
+    {
+      "path": "/en/theory/how-to-choose-a-song-key/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/kak-vybrat-tonalnost-pesni/",
+        "en": "/en/theory/how-to-choose-a-song-key/"
+      },
+      "xDefaultPath": "/ru/theory/kak-vybrat-tonalnost-pesni/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-09-17"
+    },
     {
       "path": "/ru/theory/chto-takoe-razreshenie-v-muzyke/",
       "language": "ru",
@@ -1889,6 +1913,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/theory/category/music-theory/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -2571,6 +2606,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
+        "en": "/en/theory/tag/songwriting/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
       "language": "ru",
       "alternates": {
@@ -2578,6 +2624,17 @@
         "en": "/en/theory/tag/technique/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/transposition/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -2743,6 +2800,17 @@
         "en": "/en/theory/tag/arpeggio/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%B0%D1%80%D0%BF%D0%B5%D0%B4%D0%B6%D0%B8%D0%BE/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%B2%D0%BE%D0%BA%D0%B0%D0%BB/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B2%D0%BE%D0%BA%D0%B0%D0%BB/",
+        "en": "/en/theory/tag/vocals/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B2%D0%BE%D0%BA%D0%B0%D0%BB/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3187,17 +3255,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
-        "en": "/en/theory/tag/songwriting/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/ru/theory/tag/%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B/",
       "language": "ru",
       "alternates": {
@@ -3249,17 +3306,6 @@
         "en": "/en/theory/tag/tonal-center/"
       },
       "xDefaultPath": "/ru/theory/tag/%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%86%D0%B5%D0%BD%D1%82%D1%80/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
-      "path": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
-        "en": "/en/theory/tag/transposition/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3572,6 +3618,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/music-theory/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
+        "en": "/en/theory/category/music-theory/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/notes/",
       "language": "en",
       "alternates": {
@@ -3601,17 +3658,6 @@
         "en": "/en/theory/category/functions/"
       },
       "xDefaultPath": "/ru/theory/category/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/music-theory/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
-        "en": "/en/theory/category/music-theory/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -4276,6 +4322,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/songwriting/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
+        "en": "/en/theory/tag/songwriting/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/sound/",
       "language": "en",
       "alternates": {
@@ -4316,6 +4373,17 @@
         "en": "/en/theory/tag/tension/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BD%D0%B0%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/transposition/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
+        "en": "/en/theory/tag/transposition/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -4870,17 +4938,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/songwriting/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
-        "en": "/en/theory/tag/songwriting/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%81%D0%BE%D0%BD%D0%B3%D1%80%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/stability/",
       "language": "en",
       "alternates": {
@@ -4969,17 +5026,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/transposition/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
-        "en": "/en/theory/tag/transposition/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/unison/",
       "language": "en",
       "alternates": {
@@ -4987,6 +5033,17 @@
         "en": "/en/theory/tag/unison/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D1%80%D0%B8%D0%BC%D0%B0/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/vocals/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%B2%D0%BE%D0%BA%D0%B0%D0%BB/",
+        "en": "/en/theory/tag/vocals/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%B2%D0%BE%D0%BA%D0%B0%D0%BB/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
