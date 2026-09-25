@@ -162,6 +162,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/tonnetz/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/tonnetz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/tonnetz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/tonnetz/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/string-selector/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/string-selector/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/string-selector/" />
@@ -422,6 +430,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/tonal-regions-map/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/tonal-regions-map/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/tonal-regions-map/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/tonnetz/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/tonnetz/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/tonnetz/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/tonnetz/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
