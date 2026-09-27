@@ -1,0 +1,1 @@
+import{m as c,c as n,j as e,N as s,w as r,D as o,n as l}from"./index-CYM3npHZ.js";const i=()=>{const{search:u}=c(),{slug:t}=n();if(!t)return e.jsx(s,{to:r("/blog",o),replace:!0});const a=l(t);return a?e.jsx(s,{to:`${a}${u}`,replace:!0}):e.jsx(s,{to:r("/404",o),replace:!0})};export{i as default};

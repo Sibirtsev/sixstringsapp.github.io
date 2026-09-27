@@ -210,6 +210,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/free-frequency-generator/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/free-frequency-generator/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/free-frequency-generator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/free-frequency-generator/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/harmony/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/harmony/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/harmony/" />
@@ -478,6 +486,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/audio-time-stretcher/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/audio-time-stretcher/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/audio-time-stretcher/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/free-frequency-generator/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/free-frequency-generator/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/free-frequency-generator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/free-frequency-generator/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
