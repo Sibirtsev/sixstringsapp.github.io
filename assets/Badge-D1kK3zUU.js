@@ -1,0 +1,1 @@
+import{j as l,Q as r,S as t}from"./index-DY3cM7bU.js";const d=({children:s,variant:e="default",size:n="md",className:o="",title:a=null})=>{const i=["ui-badge",r[e],t[n],o].filter(Boolean).join(" ");return l.jsx("span",{className:i,...a&&{title:a},children:s})};export{d as B};
