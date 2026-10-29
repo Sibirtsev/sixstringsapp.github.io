@@ -1,0 +1,1 @@
+import{s as c,c as n,j as e,o as r,w as a,D as o,S as i}from"./index-DFH6msAL.js";const g=()=>{const{search:u}=c(),{slug:s}=n();if(!s)return e.jsx(r,{to:a("/theory",o),replace:!0});const t=i(s);return t?e.jsx(r,{to:`${t}${u}`,replace:!0}):e.jsx(r,{to:a("/404",o),replace:!0})};export{g as default};
