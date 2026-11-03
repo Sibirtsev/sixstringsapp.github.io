@@ -50,6 +50,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sixstringsapp.com/ru/songwriting/rhyme-analyzer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/rhyme-analyzer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/rhyme-analyzer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/rhyme-analyzer/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sixstringsapp.com/ru/rhythm-trainer/</loc>
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/rhythm-trainer/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/rhythm-trainer/" />
@@ -342,6 +350,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/random-phrase/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/random-phrase/" />
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sixstringsapp.com/en/songwriting/rhyme-analyzer/</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://sixstringsapp.com/ru/songwriting/rhyme-analyzer/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://sixstringsapp.com/en/songwriting/rhyme-analyzer/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://sixstringsapp.com/ru/songwriting/rhyme-analyzer/" />
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
