@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-03T17:05:16.375Z",
+  "generatedAt": "2026-11-06T15:53:51.131Z",
   "entries": [
+    {
+      "path": "/ru/theory/chto-takoe-kvarto-kvintovyy-krug/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-kvarto-kvintovyy-krug/",
+        "en": "/en/theory/circle-of-fifths-how-it-works/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-kvarto-kvintovyy-krug/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-11-06"
+    },
+    {
+      "path": "/en/theory/circle-of-fifths-how-it-works/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/chto-takoe-kvarto-kvintovyy-krug/",
+        "en": "/en/theory/circle-of-fifths-how-it-works/"
+      },
+      "xDefaultPath": "/ru/theory/chto-takoe-kvarto-kvintovyy-krug/",
+      "changefreq": "weekly",
+      "priority": "0.75",
+      "lastmod": "2026-11-06"
+    },
     {
       "path": "/ru/theory/kak-vybrat-tonalnost-pesni/",
       "language": "ru",
@@ -1682,17 +1706,6 @@
       "lastmod": "2026-04-28"
     },
     {
-      "path": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
-        "en": "/en/theory/category/basics/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
       "path": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
       "language": "ru",
       "alternates": {
@@ -1700,6 +1713,17 @@
         "en": "/en/theory/category/harmony/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B3%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
+      "path": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
+        "en": "/en/theory/category/basics/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -1891,6 +1915,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+        "en": "/en/theory/category/music-theory/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/ru/theory/category/%D0%B0%D0%BA%D0%BA%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/",
       "language": "ru",
       "alternates": {
@@ -1909,17 +1944,6 @@
         "en": "/en/theory/category/music-theory/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-      "language": "ru",
-      "alternates": {
-        "ru": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
-        "en": "/en/theory/category/music-theory/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B8/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -2925,6 +2949,28 @@
       "priority": "0.6"
     },
     {
+      "path": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%BE-%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%BE-%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+        "en": "/en/theory/tag/circle-of-fifths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%BE-%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D1%8B/",
+        "en": "/en/theory/tag/fourths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
       "language": "ru",
       "alternates": {
@@ -2932,6 +2978,17 @@
         "en": "/en/theory/tag/circle-of-fifths/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D1%8B/",
+      "language": "ru",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D1%8B/",
+        "en": "/en/theory/tag/fifths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
@@ -3574,6 +3631,17 @@
       "priority": "0.65"
     },
     {
+      "path": "/en/theory/category/music-theory/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
+        "en": "/en/theory/category/music-theory/"
+      },
+      "xDefaultPath": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
+      "changefreq": "weekly",
+      "priority": "0.65"
+    },
+    {
       "path": "/en/theory/category/cadences/",
       "language": "en",
       "alternates": {
@@ -3614,17 +3682,6 @@
         "en": "/en/theory/category/improvisation/"
       },
       "xDefaultPath": "/ru/theory/category/%D0%B8%D0%BC%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F/",
-      "changefreq": "weekly",
-      "priority": "0.65"
-    },
-    {
-      "path": "/en/theory/category/music-theory/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
-        "en": "/en/theory/category/music-theory/"
-      },
-      "xDefaultPath": "/ru/theory/category/%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F/",
       "changefreq": "weekly",
       "priority": "0.65"
     },
@@ -4102,6 +4159,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/circle-of-fifths/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+        "en": "/en/theory/tag/circle-of-fifths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/composition/",
       "language": "en",
       "alternates": {
@@ -4531,17 +4599,6 @@
       "priority": "0.6"
     },
     {
-      "path": "/en/theory/tag/circle-of-fifths/",
-      "language": "en",
-      "alternates": {
-        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
-        "en": "/en/theory/tag/circle-of-fifths/"
-      },
-      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D1%80%D1%83%D0%B3/",
-      "changefreq": "weekly",
-      "priority": "0.6"
-    },
-    {
       "path": "/en/theory/tag/diatonic-harmony/",
       "language": "en",
       "alternates": {
@@ -4586,6 +4643,17 @@
       "priority": "0.6"
     },
     {
+      "path": "/en/theory/tag/fifths/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D1%8B/",
+        "en": "/en/theory/tag/fifths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B8%D0%BD%D1%82%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
       "path": "/en/theory/tag/fingers/",
       "language": "en",
       "alternates": {
@@ -4593,6 +4661,17 @@
         "en": "/en/theory/tag/fingers/"
       },
       "xDefaultPath": "/ru/theory/tag/%D0%BF%D0%B0%D0%BB%D1%8C%D1%86%D1%8B/",
+      "changefreq": "weekly",
+      "priority": "0.6"
+    },
+    {
+      "path": "/en/theory/tag/fourths/",
+      "language": "en",
+      "alternates": {
+        "ru": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D1%8B/",
+        "en": "/en/theory/tag/fourths/"
+      },
+      "xDefaultPath": "/ru/theory/tag/%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D1%8B/",
       "changefreq": "weekly",
       "priority": "0.6"
     },
